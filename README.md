@@ -13,3 +13,15 @@ Heavy metal contamination (Mercury, Lead, Arsenic, and Cadmium) poses a signific
 
 ### Sources
 All sources are linked in "Sources.txt" file.
+
+
+### Instructions
+To run the project, go to notebooks/MetalFin.ipynb. From here, you can open the code in Google Colab.
+Press Ctrl+F9 on your keyboard or press "Runtime" and then "Run all".
+All 3 code cells will be queued to execute and will run 1 at a time.
+Scroll all the way to the bottom to use the project's main purpose, which is the Interactive AI Decision Tool with Multi-Fish Comparison.
+You may now select a fish species, where it was raised, how it will be consumed, and an amount(with custom units).
+Now, press the "+" button to calculate the metal absorption for your seafood combination.
+Below will form a table with all values of how the heavy metals are absorbed in the human body and determine if the seafood is either SAFE, RISKY, or DANGEROUS to consume.
+You can add as many fish at once to compare how many heavy metals are in specific combinations.
+The "Clear" button clears all outputs and you may continue to compare more seafood combinations.
