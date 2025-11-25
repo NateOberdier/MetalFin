@@ -1,0 +1,1001 @@
+species,location,habitat,diet,length_cm,weight_g,mercury_mg_kg,lead_mg_kg,arsenic_mg_kg,cadmium_mg_kg
+Tilefish (Gulf),Arctic Ocean,marine,carnivore,59.78,2754.46,0.9044,0.0179,0.1066,0.001
+Perch,Caribbean Sea,freshwater,carnivore,23.66,411.06,0.0316,0.0098,0.0459,0.0001
+Crab,Sea of Japan,marine,omnivore,17.61,490.67,0.0942,,0.4005,0.0012
+Scallop,Baltic Sea,marine,filter_feeder,11.57,54.28,0.0786,0.0192,1.4313,0.0026
+Pollock,Baltic Sea,marine,carnivore,74.12,4512.23,0.04,,0.1877,0.0002
+Mahi-Mahi,Pacific Ocean,marine,carnivore,84.75,10784.05,0.1936,0.0151,0.1758,
+Haddock,Mississippi River,marine,carnivore,44.86,1224.61,0.0582,0.0068,0.1937,0.0001
+Bluegill,Indian Ocean,freshwater,omnivore,25.24,291.07,0.0382,0.008,,
+Trout,Baltic Sea,freshwater,carnivore,25.49,1301.15,0.0506,0.0038,0.0439,0.0002
+Mahi-Mahi,Gulf of Mexico,marine,carnivore,97.98,10745.61,0.1596,0.022,0.1139,0.0006
+Shrimp,Baltic Sea,marine,omnivore,8.6,23.88,0.021,0.0064,0.2212,0.0007
+Opah,Amazon River,marine,carnivore,150.7,51507.77,0.4523,0.0228,0.1254,0.0003
+Plaice,Pacific Ocean,marine,carnivore,42.65,521.49,0.0496,0.0033,0.0691,0.0
+Shrimp,Baltic Sea,marine,omnivore,12.89,24.13,0.0417,0.005,0.2521,0.0006
+Squid,Amazon River,marine,carnivore,19.25,193.05,0.0532,0.0075,0.4386,0.0067
+Atlantic Salmon,Caribbean Sea,marine,carnivore,80.25,5678.29,,0.0002,0.1565,0.0002
+Halibut,Arctic Ocean,marine,carnivore,112.78,26823.74,0.1645,,0.1236,0.0003
+Octopus,Amazon River,marine,carnivore,34.01,2012.2,0.0572,0.0086,0.2056,
+Crab,Indian Ocean,marine,omnivore,20.78,370.95,,0.0249,0.2536,0.002
+Anchovy,Bay of Biscay,marine,carnivore,9.0,25.88,0.0059,,0.4305,0.0
+Bluefish,Bay of Biscay,marine,carnivore,76.01,5461.31,,0.024,0.0556,0.0006
+Cod,Arctic Ocean,marine,carnivore,87.58,3315.59,0.0588,0.003,0.0508,0.0001
+Flounder,Gulf of Mexico,marine,carnivore,35.13,1970.77,0.082,0.0098,0.1288,0.0001
+Bluefin Tuna,Indian Ocean,marine,carnivore,175.08,42634.51,1.2147,0.015,,0.0006
+Pike,Indian Ocean,freshwater,carnivore,79.82,6424.39,0.2615,0.0279,0.1208,0.0003
+Plaice,Sea of Japan,marine,carnivore,30.81,938.77,0.0637,0.0097,0.1874,0.0001
+Bass (Freshwater),Gulf of Thailand,freshwater,carnivore,31.81,942.04,0.1735,0.017,0.0666,
+Bluegill,Mediterranean Sea,freshwater,omnivore,26.78,172.21,0.069,,0.0226,0.0
+Tilefish (Gulf),Gulf of Thailand,marine,carnivore,67.64,5186.22,0.8882,0.0217,,0.0007
+Snapper,Pacific Ocean,marine,carnivore,30.53,2488.99,0.251,0.0228,0.1778,0.0007
+Perch,Gulf of Thailand,freshwater,carnivore,25.9,437.37,0.0653,0.0084,0.0475,
+Haddock,North Atlantic,marine,carnivore,48.7,1786.12,,0.0062,0.1749,0.0001
+Trout,North Atlantic,freshwater,carnivore,29.88,707.56,0.0924,0.0054,0.0123,0.0001
+Escolar,Amazon River,marine,carnivore,164.45,50441.79,0.6462,0.0153,0.1781,0.0004
+King Mackerel,Caribbean Sea,marine,carnivore,72.68,13107.05,1.4858,0.0258,0.1021,0.0004
+Whiting,Indian Ocean,marine,carnivore,31.64,1206.39,0.0435,0.0041,0.135,0.0001
+Whitefish,Mediterranean Sea,freshwater,carnivore,31.96,911.22,0.0675,0.0045,0.0997,0.0
+Skipjack Tuna,Great Lakes,marine,carnivore,83.55,21806.95,0.2036,0.0274,0.1581,0.0003
+Octopus,Caribbean Sea,marine,carnivore,60.32,1162.0,0.0478,0.0057,0.4112,0.0282
+Halibut,South Atlantic,marine,carnivore,193.79,43501.62,0.2631,0.0127,,0.0008
+Plaice,Gulf of Thailand,marine,carnivore,32.88,1706.17,,0.0048,0.1119,0.0002
+Salmon (Generic),Pacific Ocean,marine,carnivore,52.64,3761.46,0.0164,0.0013,0.0867,0.0
+Sole,Caribbean Sea,marine,carnivore,58.38,1658.08,,0.0034,0.1887,
+Lobster (Spiny),Arctic Ocean,marine,omnivore,44.84,1289.84,0.0307,0.0145,0.4034,
+Marlin,Amazon River,marine,carnivore,215.39,144909.39,1.2719,,0.0653,0.0007
+Shark,Amazon River,marine,carnivore,312.12,35501.5,0.9165,0.0111,0.1181,0.0009
+Scallop,Great Lakes,marine,filter_feeder,5.54,33.38,0.0232,,1.0746,0.0046
+King Mackerel,Pacific Ocean,marine,carnivore,100.28,12619.95,1.2574,0.0278,0.0835,0.0004
+Walleye,Indian Ocean,freshwater,carnivore,49.68,1977.22,0.2912,0.0114,0.0854,0.0002
+Perch,South Atlantic,freshwater,carnivore,27.83,457.94,0.0202,,0.0492,0.0001
+Scallop,North Atlantic,marine,filter_feeder,10.95,67.61,0.0398,0.028,1.3722,0.0035
+Shrimp,Bay of Biscay,marine,omnivore,19.79,17.21,0.032,,0.3031,0.0006
+Lobster (American),North Atlantic,marine,omnivore,30.67,1837.96,0.0972,,0.4405,0.0041
+Snapper,Baltic Sea,marine,carnivore,30.64,2636.87,0.2165,0.0145,0.17,0.0003
+Trout,Gulf of Thailand,freshwater,carnivore,59.9,1834.68,0.0405,,0.0199,0.0
+Tilefish (Gulf),Pacific Ocean,marine,carnivore,54.59,4133.22,1.1241,0.014,,0.0004
+Snapper,Bering Sea,marine,carnivore,36.28,2470.69,0.1215,0.0178,0.1562,
+Bass (Freshwater),Gulf of Mexico,freshwater,carnivore,56.22,2746.91,0.2795,0.0279,0.1583,0.0004
+Catfish,Pacific Ocean,freshwater,omnivore,32.07,1491.1,0.0133,0.0071,0.0051,0.0
+Atlantic Salmon,Bering Sea,marine,carnivore,74.06,5949.69,0.0034,,0.1513,0.0001
+Cod,South Atlantic,marine,carnivore,50.82,3361.97,0.0445,0.0057,0.173,0.0002
+Haddock,North Atlantic,marine,carnivore,41.31,2094.6,0.0225,0.0096,0.1035,0.0
+Snapper,Mississippi River,marine,carnivore,38.55,1493.74,0.2811,,,0.0007
+Coho Salmon,Bering Sea,marine,carnivore,73.52,4498.26,0.0332,0.0001,0.059,0.0002
+Orange Roughy,South Atlantic,marine,carnivore,51.91,3605.82,,0.0287,0.1662,0.0003
+Albacore Tuna,North Sea,marine,carnivore,138.95,24718.04,0.2078,0.0289,0.073,0.0004
+Crab,North Atlantic,marine,omnivore,22.8,553.05,,0.0269,0.2338,0.0041
+Haddock,Sea of Japan,marine,carnivore,73.86,2177.87,0.0621,0.0058,0.1243,0.0002
+Walleye,Amazon River,freshwater,carnivore,44.66,3586.45,0.2904,0.0157,0.1145,0.0009
+Trout,Mediterranean Sea,freshwater,carnivore,48.27,998.89,,0.0072,0.0369,0.0002
+Mahi-Mahi,North Atlantic,marine,carnivore,75.43,9361.07,0.2571,0.022,0.1245,
+Marlin,North Sea,marine,carnivore,200.53,170787.0,,0.0206,0.1945,0.0006
+Bluegill,Baltic Sea,freshwater,omnivore,17.62,55.33,0.0382,0.0075,,0.0002
+Carp,Baltic Sea,freshwater,omnivore,60.07,1655.43,0.1842,0.0163,,0.0009
+Sockeye Salmon,Mediterranean Sea,marine,carnivore,52.93,3096.46,0.0295,0.0008,,0.0001
+Bluefin Tuna,Sea of Japan,marine,carnivore,168.18,112289.28,,0.0253,0.1428,0.0007
+Sea Bass,Mediterranean Sea,marine,carnivore,53.27,1211.94,0.123,0.0208,0.1055,0.0008
+Octopus,Indian Ocean,marine,carnivore,30.16,3824.97,0.0407,0.0075,0.3652,0.0459
+Grouper,Great Lakes,marine,carnivore,50.99,9352.5,,0.0273,0.1138,0.0005
+Crayfish,Arctic Ocean,freshwater,omnivore,8.62,48.21,0.0143,0.0039,0.4934,
+Orange Roughy,Indian Ocean,marine,carnivore,49.02,2185.76,0.5347,0.0239,0.0587,0.0008
+Tilapia,Pacific Ocean,freshwater,herbivore,22.4,1097.45,0.0113,0.0071,0.018,0.0
+Coho Salmon,Indian Ocean,marine,carnivore,67.55,3688.96,0.0408,0.0016,0.0714,0.0001
+Snapper,Sea of Japan,marine,carnivore,52.2,3104.13,0.2081,,0.1638,0.0004
+Shark,Arctic Ocean,marine,carnivore,197.31,192025.0,1.0858,0.0229,0.191,0.0002
+Sea Bass,Caribbean Sea,marine,carnivore,33.37,1585.26,0.1171,,0.08,0.0006
+Squid,Arctic Ocean,marine,carnivore,38.04,100.28,0.0447,,,0.0127
+Whitefish,Caribbean Sea,freshwater,carnivore,42.29,2207.02,0.0861,0.0069,0.1918,0.0001
+Yellowfin Tuna,Gulf of Mexico,marine,carnivore,148.72,50060.62,0.3872,0.0183,0.1493,0.0004
+Albacore Tuna,North Sea,marine,carnivore,114.48,31101.09,0.1071,,,0.0007
+Albacore Tuna,South Atlantic,marine,carnivore,86.16,27665.12,0.1361,0.0297,0.1487,0.0007
+Bigeye Tuna,Sea of Japan,marine,carnivore,149.19,52532.96,0.3474,0.0234,0.1852,0.0009
+Sardine,Caribbean Sea,marine,carnivore,21.91,132.89,,,0.3823,
+Catfish,Arctic Ocean,freshwater,omnivore,29.72,879.89,,0.005,0.042,0.0
+Oyster,Great Lakes,marine,filter_feeder,14.12,42.44,0.0728,0.02,1.2534,0.0034
+Clam,North Atlantic,marine,filter_feeder,5.94,28.81,0.0648,,0.9608,
+Oyster,North Sea,marine,filter_feeder,6.62,20.49,,,1.0583,0.0012
+Bigeye Tuna,Indian Ocean,marine,carnivore,183.45,19434.95,0.5841,0.0139,0.105,
+Octopus,Bering Sea,marine,carnivore,26.94,3673.0,0.0756,0.0089,0.4462,0.0057
+Lobster (American),Amazon River,marine,omnivore,30.34,808.44,0.0895,0.0274,0.458,0.0046
+Mahi-Mahi,Sea of Japan,marine,carnivore,114.02,11173.33,0.1556,0.0164,0.0546,0.0009
+Walleye,South Atlantic,freshwater,carnivore,64.41,3444.71,0.1066,0.0286,0.1475,0.0005
+Marlin,North Sea,marine,carnivore,280.28,111309.5,1.1183,0.0132,0.1458,0.0006
+Tilefish (Gulf),Indian Ocean,marine,carnivore,75.72,3697.73,1.2404,,0.1036,0.0004
+Whiting,Bering Sea,marine,carnivore,52.44,1440.39,,0.0085,0.1408,0.0001
+Scallop,Baltic Sea,marine,filter_feeder,9.44,40.93,0.0436,,1.2315,0.0037
+Orange Roughy,Gulf of Mexico,marine,carnivore,55.88,2930.06,0.5713,0.0102,0.1819,0.0005
+Coho Salmon,Caribbean Sea,marine,carnivore,63.85,4204.99,0.0163,0.0004,,0.0
+Anchovy,Sea of Japan,marine,carnivore,14.73,23.73,0.0208,0.0065,,0.0001
+Sea Bass,Bay of Biscay,marine,carnivore,31.37,2501.73,0.2083,0.0207,0.1834,0.0003
+Plaice,Indian Ocean,marine,carnivore,37.1,1422.2,0.0458,0.0087,0.0855,
+Herring,South Atlantic,marine,carnivore,30.78,263.6,0.0442,0.0089,0.3155,
+Trout,North Atlantic,freshwater,carnivore,45.86,925.26,0.0593,0.0031,0.0268,0.0002
+Anchovy,Pacific Ocean,marine,carnivore,8.17,34.45,0.0421,0.0058,0.2255,0.0001
+Mahi-Mahi,Mediterranean Sea,marine,carnivore,114.24,11221.72,0.2486,0.0174,0.1442,0.0005
+Tilapia,Bay of Biscay,freshwater,herbivore,27.76,1488.21,0.0481,0.0098,0.045,0.0002
+Catfish,Arctic Ocean,freshwater,omnivore,40.83,1284.61,0.0352,0.0041,,0.0001
+Oyster,Sea of Japan,marine,filter_feeder,11.2,47.17,0.0459,0.0142,,0.0044
+Herring,Bering Sea,marine,carnivore,25.92,220.62,0.0411,0.0033,0.3793,0.0
+Perch,Great Lakes,freshwater,carnivore,38.55,511.62,0.035,0.0035,0.0084,0.0001
+Flounder,South Atlantic,marine,carnivore,32.2,869.55,0.0707,0.008,,0.0002
+Tilapia,Pacific Ocean,freshwater,herbivore,38.75,1069.99,0.0331,0.0065,0.0274,0.0002
+Clam,Mississippi River,marine,filter_feeder,7.15,24.45,0.0487,,,
+Walleye,North Atlantic,freshwater,carnivore,77.81,870.28,0.1611,0.0259,0.0623,0.0008
+Sockeye Salmon,Great Lakes,marine,carnivore,62.21,3451.71,0.0478,0.0028,0.0744,0.0001
+King Mackerel,Baltic Sea,marine,carnivore,118.5,14270.73,1.4554,,0.098,0.0009
+Bass (Freshwater),Indian Ocean,freshwater,carnivore,32.52,2096.24,0.1241,0.0298,0.1441,0.0007
+Marlin,Sea of Japan,marine,carnivore,181.45,163706.7,1.1087,0.0201,0.1948,0.0004
+Shark,Caribbean Sea,marine,carnivore,314.1,91521.31,1.2045,,0.1453,0.0008
+Shark,Gulf of Thailand,marine,carnivore,193.53,76025.35,1.304,0.0288,0.0985,0.0006
+Catfish,Indian Ocean,freshwater,omnivore,38.0,1901.85,0.0275,0.0043,0.05,0.0002
+Albacore Tuna,Mediterranean Sea,marine,carnivore,131.62,18151.74,0.1247,0.0105,0.1401,0.0005
+Bluefin Tuna,North Atlantic,marine,carnivore,157.5,112988.02,,0.0271,0.1876,0.0006
+King Mackerel,North Sea,marine,carnivore,79.43,4321.54,0.9365,0.0196,0.1797,0.0008
+Octopus,North Sea,marine,carnivore,32.11,830.14,0.0927,0.0053,0.4935,0.0125
+Marlin,Great Lakes,marine,carnivore,287.56,170060.89,,0.0245,0.1245,0.0005
+Oyster,Great Lakes,marine,filter_feeder,9.04,99.89,0.0839,0.0232,0.5943,0.0023
+Marlin,Mediterranean Sea,marine,carnivore,217.16,142516.81,0.8159,0.0121,,0.0004
+Escolar,Mediterranean Sea,marine,carnivore,96.78,33230.9,0.4853,,0.1812,0.0009
+Sockeye Salmon,Gulf of Thailand,marine,carnivore,56.46,3801.55,0.0247,0.0027,0.19,0.0002
+Herring,Great Lakes,marine,carnivore,30.38,281.06,0.0902,,,0.0001
+Carp,Arctic Ocean,freshwater,omnivore,45.82,4717.93,0.1553,0.0161,0.0508,0.0009
+Halibut,Mississippi River,marine,carnivore,87.88,52038.51,0.1788,0.0139,,
+Halibut,North Sea,marine,carnivore,111.2,22104.92,0.2895,,,0.0006
+Trout,North Sea,freshwater,carnivore,34.23,1978.6,0.0698,0.0097,,0.0001
+King Mackerel,Mediterranean Sea,marine,carnivore,59.13,8146.92,1.2085,0.0283,0.0939,0.0005
+Tilapia,Pacific Ocean,freshwater,herbivore,20.8,509.73,,0.0082,,
+Mussel,Baltic Sea,marine,filter_feeder,10.41,32.5,0.0484,0.0137,0.9941,0.005
+Bluefin Tuna,Amazon River,marine,carnivore,170.52,247419.36,1.2691,,0.1906,0.0008
+Pike,Sea of Japan,freshwater,carnivore,49.9,5116.14,0.2986,0.0149,0.1741,0.0009
+Bluefin Tuna,North Atlantic,marine,carnivore,154.8,208619.25,1.4371,0.0213,0.0871,0.0003
+Bass (Freshwater),Gulf of Mexico,freshwater,carnivore,39.51,2368.84,0.1063,0.0284,0.1605,0.0005
+Haddock,North Sea,marine,carnivore,62.04,2773.15,,0.0085,0.0951,0.0001
+Whitefish,Bay of Biscay,freshwater,carnivore,50.0,2800.72,0.0275,0.0084,0.0907,0.0001
+Sole,Baltic Sea,marine,carnivore,51.63,1864.3,,,0.1979,
+Sockeye Salmon,Baltic Sea,marine,carnivore,59.56,2785.93,0.0232,0.0025,0.1702,0.0002
+Albacore Tuna,Bering Sea,marine,carnivore,134.53,39575.8,0.1317,0.0125,0.1415,0.0006
+Albacore Tuna,Gulf of Thailand,marine,carnivore,129.07,33462.02,0.2497,0.01,0.083,
+Trout,North Atlantic,freshwater,carnivore,56.5,965.54,0.0895,,,0.0
+Scallop,Mississippi River,marine,filter_feeder,7.57,15.56,,0.0219,1.2757,0.0014
+Albacore Tuna,Indian Ocean,marine,carnivore,137.28,39681.24,0.2072,0.017,0.185,0.0007
+Orange Roughy,Great Lakes,marine,carnivore,54.47,2881.94,0.5839,,0.0752,0.0005
+Oyster,Amazon River,marine,filter_feeder,11.15,95.11,0.0243,0.0229,0.9651,
+Halibut,Gulf of Thailand,marine,carnivore,86.81,24684.04,0.2974,0.0131,0.1449,0.0008
+Lobster (Spiny),Baltic Sea,marine,omnivore,37.54,658.6,0.0334,0.0265,0.2562,0.0034
+Swordfish,North Sea,marine,carnivore,245.34,41282.56,1.1905,0.0162,0.1364,0.0007
+Swordfish,Gulf of Mexico,marine,carnivore,228.04,30371.03,0.9536,0.029,,
+Sardine,Amazon River,marine,carnivore,24.28,91.75,0.0055,0.0094,0.432,0.0001
+Crab,Great Lakes,marine,omnivore,21.88,468.78,0.0656,0.028,,0.0014
+Scallop,Bay of Biscay,marine,filter_feeder,6.37,31.18,0.0378,0.0229,0.7377,0.0029
+Clam,Baltic Sea,marine,filter_feeder,5.07,33.8,0.0855,0.0184,0.9355,0.0039
+Bluefish,Mississippi River,marine,carnivore,76.79,2484.99,0.2236,0.0298,0.147,0.001
+Escolar,Amazon River,marine,carnivore,177.27,32340.2,0.6302,0.0249,0.154,0.0003
+Sole,South Atlantic,marine,carnivore,50.15,758.0,0.0936,0.0062,0.1676,0.0002
+Pike,Baltic Sea,freshwater,carnivore,84.6,7934.98,0.109,0.0252,0.1228,0.001
+Lobster (Spiny),Caribbean Sea,marine,omnivore,46.45,1338.18,0.0942,0.0107,0.4997,0.0035
+Tilapia,South Atlantic,freshwater,herbivore,44.51,1195.84,0.0199,,,0.0
+Bluefin Tuna,Mississippi River,marine,carnivore,179.42,105640.99,0.8111,0.0216,0.1384,0.0003
+Flounder,Bay of Biscay,marine,carnivore,49.37,1126.33,0.0401,0.0043,0.1225,0.0001
+Salmon (Generic),Mississippi River,marine,carnivore,85.84,2159.54,0.0476,,0.1393,0.0001
+Sole,Sea of Japan,marine,carnivore,44.46,1590.24,0.0883,0.0058,0.0714,0.0
+Sardine,Arctic Ocean,marine,carnivore,19.75,110.36,0.0396,0.0059,0.2598,0.0002
+Pike,Sea of Japan,freshwater,carnivore,76.33,4810.18,0.2577,0.0187,0.1259,
+Whitefish,Arctic Ocean,freshwater,carnivore,42.69,1626.62,0.0761,0.0091,0.0743,0.0002
+Anchovy,North Atlantic,marine,carnivore,9.35,20.36,0.0273,0.0077,0.2803,0.0001
+Snapper,Pacific Ocean,marine,carnivore,47.22,1677.39,0.1419,,0.0756,
+Lobster (American),Baltic Sea,marine,omnivore,43.27,785.73,0.0505,0.0232,0.2943,0.0039
+Bluegill,Pacific Ocean,freshwater,omnivore,21.31,234.07,0.0704,0.0073,0.0417,0.0001
+Oyster,Mississippi River,marine,filter_feeder,11.88,88.6,0.0506,,0.9539,0.0029
+Scallop,Mississippi River,marine,filter_feeder,9.62,37.82,0.0681,0.0189,,0.001
+Salmon (Generic),Mississippi River,marine,carnivore,87.62,2264.5,0.0096,,0.1666,0.0
+Shrimp,North Atlantic,marine,omnivore,15.45,25.8,0.0142,0.0056,,0.0003
+Swordfish,Pacific Ocean,marine,carnivore,149.37,41323.57,0.752,0.011,,0.0004
+Escolar,North Sea,marine,carnivore,195.53,30276.86,0.6365,,0.0504,0.0007
+Walleye,Indian Ocean,freshwater,carnivore,58.15,2417.35,0.1132,0.0158,0.1126,
+Lobster (American),Mediterranean Sea,marine,omnivore,47.93,1215.64,0.0704,0.0289,0.3857,0.0036
+Tilefish (Gulf),Amazon River,marine,carnivore,73.04,6571.51,0.9828,,0.1335,0.0009
+Whiting,Gulf of Thailand,marine,carnivore,41.02,1931.07,,0.0055,,0.0002
+Cod,Caribbean Sea,marine,carnivore,90.37,6551.69,0.0832,0.0055,0.0749,0.0002
+Sea Bass,North Atlantic,marine,carnivore,78.89,6104.91,0.1185,0.0273,0.1189,0.001
+Crayfish,South Atlantic,freshwater,omnivore,9.65,80.64,0.0114,0.0043,0.3723,0.001
+Skipjack Tuna,Amazon River,marine,carnivore,74.56,16828.92,0.1567,,,0.0007
+Clam,Amazon River,marine,filter_feeder,9.56,55.18,0.0876,0.0163,1.0239,
+Marlin,Bay of Biscay,marine,carnivore,166.36,77433.67,0.7419,0.0224,0.1067,0.0004
+Bluefin Tuna,Caribbean Sea,marine,carnivore,217.87,197309.68,1.4072,0.0214,0.0625,0.001
+Coho Salmon,Bering Sea,marine,carnivore,59.74,3359.0,,0.002,0.0677,0.0001
+Crayfish,Caribbean Sea,freshwater,omnivore,11.61,26.17,0.0178,,0.3599,0.0005
+Bluegill,North Sea,freshwater,omnivore,27.49,51.27,0.0412,,0.0121,0.0001
+Skipjack Tuna,Mississippi River,marine,carnivore,98.02,20611.39,0.2024,,0.0965,0.0002
+Perch,Caribbean Sea,freshwater,carnivore,28.56,669.4,0.0326,0.0048,0.0442,
+Escolar,Bay of Biscay,marine,carnivore,101.45,8851.02,0.3789,0.0281,0.1601,0.0005
+Flounder,Sea of Japan,marine,carnivore,36.22,1190.98,0.0963,0.0096,0.0943,
+Carp,Caribbean Sea,freshwater,omnivore,58.34,2700.63,,0.0286,0.1163,0.0009
+Flounder,Bay of Biscay,marine,carnivore,54.11,1834.12,0.0658,0.0052,0.1197,
+Scallop,Arctic Ocean,marine,filter_feeder,11.88,65.1,0.0942,0.0249,0.8418,
+Walleye,Mississippi River,freshwater,carnivore,39.75,2155.38,0.1948,0.0185,0.1621,0.0004
+Scallop,Caribbean Sea,marine,filter_feeder,6.84,56.8,0.0811,0.0225,1.0643,0.0046
+Mussel,Bering Sea,marine,filter_feeder,5.78,73.65,0.0911,0.0276,1.0582,0.0017
+Orange Roughy,Sea of Japan,marine,carnivore,64.77,3706.11,0.563,0.0222,0.1132,0.0005
+Marlin,Gulf of Thailand,marine,carnivore,190.68,86781.6,0.7691,0.0204,0.1622,0.0009
+Bluefish,Caribbean Sea,marine,carnivore,49.11,3818.05,0.2275,0.0161,0.1946,0.0003
+Tilapia,Mediterranean Sea,freshwater,herbivore,20.22,1473.79,0.0162,0.0097,0.007,0.0002
+Bigeye Tuna,Mississippi River,marine,carnivore,194.25,33438.58,0.4158,0.0124,0.192,
+Whitefish,Indian Ocean,freshwater,carnivore,39.71,2767.37,0.065,0.0099,,0.0001
+Bluefish,Indian Ocean,marine,carnivore,76.29,2265.7,0.2474,0.0164,0.1386,0.0003
+Crayfish,Great Lakes,freshwater,omnivore,8.85,57.75,0.0226,0.0083,0.3474,0.0005
+Marlin,Great Lakes,marine,carnivore,164.75,163125.45,1.4997,,0.1431,0.001
+Albacore Tuna,North Sea,marine,carnivore,128.0,18102.6,0.232,0.0174,0.088,0.0006
+Catfish,Baltic Sea,freshwater,omnivore,32.19,1013.52,0.048,0.0095,0.0109,0.0
+Squid,Indian Ocean,marine,carnivore,32.23,90.81,,,0.3379,0.047
+Trout,Sea of Japan,freshwater,carnivore,46.64,727.63,0.0221,0.0044,0.0345,0.0
+Whiting,Bering Sea,marine,carnivore,59.03,1373.2,0.0731,0.0092,0.185,0.0002
+Scallop,North Atlantic,marine,filter_feeder,5.21,23.72,0.0911,0.0245,0.6879,0.0049
+Oyster,South Atlantic,marine,filter_feeder,11.23,62.28,0.0776,0.0248,1.1433,0.0034
+Albacore Tuna,North Atlantic,marine,carnivore,130.56,13832.52,0.1764,0.0127,0.082,0.0007
+Oyster,Pacific Ocean,marine,filter_feeder,10.41,41.71,,0.0293,1.2143,
+Bluefin Tuna,Bay of Biscay,marine,carnivore,237.42,205626.83,0.705,0.0227,0.1412,0.0006
+Grouper,Arctic Ocean,marine,carnivore,67.49,5350.52,0.6449,0.0102,0.1786,0.0004
+Squid,Bering Sea,marine,carnivore,19.29,351.32,0.0558,0.0058,0.4284,0.0201
+Bluegill,North Atlantic,freshwater,omnivore,22.39,133.0,0.075,0.0051,0.0436,0.0001
+Bluefin Tuna,Baltic Sea,marine,carnivore,242.75,150544.92,1.0133,0.0127,0.0671,0.0006
+Bluegill,Mississippi River,freshwater,omnivore,25.02,280.65,0.0958,0.0096,0.0382,0.0001
+Oyster,South Atlantic,marine,filter_feeder,11.82,40.05,0.0462,0.0273,,0.0036
+Crayfish,Sea of Japan,freshwater,omnivore,8.94,22.26,,0.007,0.2438,0.0008
+Bass (Freshwater),North Atlantic,freshwater,carnivore,55.54,2092.87,,0.0106,0.1276,
+Marlin,North Atlantic,marine,carnivore,234.79,168727.39,1.3304,0.0215,0.1173,
+Snapper,Amazon River,marine,carnivore,38.19,1141.01,0.1658,0.0292,,0.0005
+Shark,Great Lakes,marine,carnivore,316.57,73669.44,1.3871,0.0217,,0.0002
+Sardine,Great Lakes,marine,carnivore,19.88,83.47,,,0.3839,0.0001
+Catfish,Bay of Biscay,freshwater,omnivore,37.85,1205.73,0.0202,0.0034,0.0151,
+Halibut,Pacific Ocean,marine,carnivore,107.76,51125.21,0.1102,0.0125,0.0902,0.0007
+Oyster,North Sea,marine,filter_feeder,6.63,47.97,0.0856,0.025,0.7304,0.0047
+Lobster (American),Amazon River,marine,omnivore,38.41,1857.86,0.0469,0.0149,0.3721,0.0022
+Halibut,Gulf of Thailand,marine,carnivore,148.05,57981.74,0.1572,0.0246,,0.0003
+Tilapia,Sea of Japan,freshwater,herbivore,23.77,1158.13,0.0124,0.0057,0.0442,0.0002
+Bluegill,Indian Ocean,freshwater,omnivore,29.49,216.89,0.0455,0.0047,0.0057,0.0
+Lobster (Spiny),Gulf of Mexico,marine,omnivore,36.91,729.55,0.0592,0.0285,0.2026,0.0027
+Whiting,Bay of Biscay,marine,carnivore,44.93,1928.43,0.0951,0.0089,0.0912,0.0001
+Anchovy,Bay of Biscay,marine,carnivore,14.31,29.72,0.0359,0.0049,,0.0001
+Salmon (Generic),Mississippi River,marine,carnivore,70.83,5429.33,,,0.1995,0.0002
+Cod,Mediterranean Sea,marine,carnivore,93.88,2120.5,0.081,,0.1151,0.0
+Sockeye Salmon,Amazon River,marine,carnivore,58.06,3781.21,0.0385,0.003,0.1683,0.0
+Octopus,Mississippi River,marine,carnivore,23.95,2918.07,0.0414,0.0056,0.497,0.0292
+Tilefish (Gulf),Baltic Sea,marine,carnivore,63.92,6932.69,0.9845,0.0165,0.0868,0.0002
+Swordfish,Bay of Biscay,marine,carnivore,135.21,20610.94,1.0232,0.0151,0.1843,0.0002
+Orange Roughy,Great Lakes,marine,carnivore,63.86,4391.2,0.5506,0.0168,0.0989,0.0007
+Swordfish,Baltic Sea,marine,carnivore,198.76,41148.06,0.8325,,0.1632,0.0003
+Whiting,Sea of Japan,marine,carnivore,45.04,1767.98,0.0428,0.0068,,0.0001
+Marlin,Mediterranean Sea,marine,carnivore,266.6,167643.49,1.0879,0.0206,0.1556,0.0008
+Bluefish,South Atlantic,marine,carnivore,79.34,4606.96,0.1668,0.0195,0.1588,0.0009
+Salmon (Generic),Caribbean Sea,marine,carnivore,62.2,2155.17,0.0338,0.0022,0.0698,
+Octopus,Indian Ocean,marine,carnivore,49.21,688.65,,0.0032,0.433,
+Sea Bass,Pacific Ocean,marine,carnivore,71.07,2753.66,0.1383,0.0131,0.0669,
+Crab,Sea of Japan,marine,omnivore,22.38,647.04,0.0941,0.0272,0.3029,0.0037
+Anchovy,Sea of Japan,marine,carnivore,11.69,33.49,0.0146,,,0.0
+Bluefin Tuna,Sea of Japan,marine,carnivore,217.59,52030.29,0.8561,0.0178,0.0841,0.0003
+Marlin,Mediterranean Sea,marine,carnivore,243.95,195241.62,1.4478,0.0184,,0.0004
+Bluefin Tuna,Great Lakes,marine,carnivore,155.07,31500.19,0.9676,,0.1773,0.0003
+Walleye,Indian Ocean,freshwater,carnivore,61.19,1777.44,,,0.1965,0.0006
+Oyster,Indian Ocean,marine,filter_feeder,11.31,87.56,0.0785,0.0143,1.4662,0.0024
+Walleye,Bering Sea,freshwater,carnivore,72.54,3699.03,0.1396,0.021,0.0598,0.0006
+Sockeye Salmon,Bering Sea,marine,carnivore,54.0,2824.25,,0.0026,0.0946,
+Crayfish,Great Lakes,freshwater,omnivore,13.24,27.29,0.0253,0.005,0.4747,0.0005
+Walleye,Baltic Sea,freshwater,carnivore,61.92,2871.33,0.207,,,0.0002
+Snapper,North Sea,marine,carnivore,56.94,891.53,0.1613,0.0217,0.1506,0.0005
+Opah,Mediterranean Sea,marine,carnivore,82.94,17778.53,0.5779,0.0232,0.1028,
+Bluefish,Mississippi River,marine,carnivore,54.39,5721.61,,0.0246,0.0775,0.0006
+Bluegill,Bay of Biscay,freshwater,omnivore,20.72,77.64,0.0232,,0.0191,0.0001
+Mussel,Sea of Japan,marine,filter_feeder,11.62,62.89,0.0589,0.027,1.2374,0.0033
+Salmon (Generic),Arctic Ocean,marine,carnivore,86.36,4615.29,,0.0025,0.1723,0.0001
+Shark,Sea of Japan,marine,carnivore,336.15,188354.84,1.3265,0.015,0.1994,0.0007
+Yellowfin Tuna,Bay of Biscay,marine,carnivore,192.54,30649.21,0.4653,0.0295,0.0986,0.0008
+Octopus,Pacific Ocean,marine,carnivore,57.81,3636.35,0.0908,0.0085,,0.0272
+Whitefish,Arctic Ocean,freshwater,carnivore,39.34,2787.39,,0.0064,0.1985,
+Tilefish (Gulf),Bering Sea,marine,carnivore,49.66,3824.41,,0.0163,0.1072,0.0004
+Halibut,Caribbean Sea,marine,carnivore,185.3,40092.59,0.1645,0.0284,0.0548,
+Yellowfin Tuna,Bay of Biscay,marine,carnivore,113.87,64770.16,0.6782,0.0288,0.136,0.0008
+Cod,North Sea,marine,carnivore,83.73,5292.19,0.0711,0.0071,0.1923,
+Octopus,Caribbean Sea,marine,carnivore,60.79,2976.15,0.0467,0.0041,0.3393,0.0358
+Tilefish (Gulf),North Atlantic,marine,carnivore,69.48,6590.21,1.1755,0.019,0.1168,0.0009
+Perch,Baltic Sea,freshwater,carnivore,31.18,716.94,0.0451,0.0065,0.017,0.0002
+Plaice,Bering Sea,marine,carnivore,29.66,959.22,0.0705,0.0074,,
+Atlantic Salmon,Great Lakes,marine,carnivore,74.75,4912.2,0.0104,0.0029,0.1392,0.0002
+Atlantic Salmon,Indian Ocean,marine,carnivore,60.96,4316.37,0.0492,0.0021,0.1492,0.0001
+Bass (Freshwater),Bering Sea,freshwater,carnivore,55.65,2434.46,0.1011,,0.1987,0.0009
+Yellowfin Tuna,South Atlantic,marine,carnivore,194.53,48133.17,0.5745,0.027,0.158,0.0004
+Yellowfin Tuna,Pacific Ocean,marine,carnivore,106.62,20591.9,0.4185,0.0249,0.1195,0.0005
+Bass (Freshwater),Bay of Biscay,freshwater,carnivore,42.97,3338.69,0.2664,0.0233,0.1942,0.0002
+Flounder,North Sea,marine,carnivore,46.57,1046.49,0.095,0.0069,0.1272,0.0001
+Pollock,Amazon River,marine,carnivore,68.93,3323.18,0.0303,0.0003,0.1454,0.0001
+Octopus,Bering Sea,marine,carnivore,51.14,2945.64,0.0726,0.008,0.3726,0.0449
+Flounder,Caribbean Sea,marine,carnivore,55.62,959.44,0.0768,,0.0986,0.0
+Shark,Gulf of Thailand,marine,carnivore,251.67,100818.99,,0.0242,0.0831,0.0004
+Crayfish,Indian Ocean,freshwater,omnivore,13.25,29.88,0.0393,0.0047,0.418,0.0006
+Octopus,Gulf of Thailand,marine,carnivore,40.11,636.28,,0.0035,0.4741,0.0201
+Perch,South Atlantic,freshwater,carnivore,36.65,799.06,0.0253,0.0054,0.0391,0.0001
+Sea Bass,Gulf of Thailand,marine,carnivore,34.61,5644.32,0.1383,0.028,0.1647,
+Sole,Mediterranean Sea,marine,carnivore,54.23,1231.0,0.0336,0.0079,0.1057,0.0001
+Catfish,North Atlantic,freshwater,omnivore,45.64,2004.87,0.0101,0.0061,0.0362,0.0002
+Crab,Pacific Ocean,marine,omnivore,24.37,325.29,0.0378,0.0102,0.4231,0.0013
+Perch,Gulf of Mexico,freshwater,carnivore,20.62,791.13,0.0674,0.0035,0.0151,0.0001
+Snapper,North Sea,marine,carnivore,51.52,1931.44,0.1128,0.0118,0.0751,0.0007
+King Mackerel,Mississippi River,marine,carnivore,59.21,9547.99,1.0303,0.0196,,0.0004
+Cod,Caribbean Sea,marine,carnivore,92.59,4506.98,0.0202,0.0036,0.1489,0.0001
+Marlin,Sea of Japan,marine,carnivore,294.25,98078.36,1.1153,0.0105,0.1018,
+Oyster,Gulf of Thailand,marine,filter_feeder,9.25,85.27,0.0423,0.0147,1.0,0.0047
+Crayfish,Caribbean Sea,freshwater,omnivore,11.37,48.31,0.0336,0.004,0.4494,0.0003
+Opah,Baltic Sea,marine,carnivore,107.49,59111.53,0.3334,0.0116,0.1569,0.0006
+Bluefin Tuna,Mediterranean Sea,marine,carnivore,240.07,107621.7,1.4808,0.0114,0.1409,0.0003
+Mahi-Mahi,Arctic Ocean,marine,carnivore,114.97,14120.2,0.2615,,0.0935,0.0002
+Whitefish,Pacific Ocean,freshwater,carnivore,35.75,2239.8,0.0747,0.0059,0.1528,0.0002
+Haddock,Indian Ocean,marine,carnivore,48.61,2431.8,0.0701,,0.1948,0.0001
+Bluefish,Arctic Ocean,marine,carnivore,54.41,3084.74,0.2948,0.0154,0.1546,0.0004
+Orange Roughy,Baltic Sea,marine,carnivore,60.74,4259.68,0.6486,,0.1598,0.0009
+Mahi-Mahi,South Atlantic,marine,carnivore,97.36,13350.16,,0.0211,0.0972,0.0003
+Bass (Freshwater),Arctic Ocean,freshwater,carnivore,49.34,2055.69,0.1096,0.0279,0.177,0.001
+Whiting,South Atlantic,marine,carnivore,55.63,2257.5,0.0567,0.0097,0.1591,0.0001
+Oyster,Mediterranean Sea,marine,filter_feeder,11.02,98.05,0.0603,0.0293,1.0318,0.0047
+Bass (Freshwater),Amazon River,freshwater,carnivore,34.95,2885.33,0.1241,0.0138,0.1717,0.0007
+Herring,Amazon River,marine,carnivore,24.66,272.8,,0.0046,0.2534,0.0002
+Pollock,Gulf of Thailand,marine,carnivore,85.16,3104.84,0.0232,0.0021,,0.0002
+Sea Bass,South Atlantic,marine,carnivore,38.81,1265.13,0.2711,,0.0848,
+Yellowfin Tuna,North Atlantic,marine,carnivore,166.34,50045.76,0.3095,0.0152,0.1276,0.0008
+Carp,Arctic Ocean,freshwater,omnivore,36.02,3296.32,0.2288,0.013,0.1798,0.0005
+Oyster,Gulf of Thailand,marine,filter_feeder,9.37,94.74,0.0209,0.0106,1.0271,0.0044
+Sockeye Salmon,North Atlantic,marine,carnivore,58.83,3080.68,0.017,0.0003,0.0724,
+Salmon (Generic),Pacific Ocean,marine,carnivore,67.95,4968.13,,0.0006,0.0696,0.0002
+Orange Roughy,Gulf of Mexico,marine,carnivore,59.03,4023.04,0.324,0.0133,0.1308,0.0004
+Sardine,Great Lakes,marine,carnivore,22.38,104.34,0.0225,,0.4559,0.0002
+Sockeye Salmon,Amazon River,marine,carnivore,52.47,2077.84,0.0404,0.0011,0.148,0.0
+Mahi-Mahi,Amazon River,marine,carnivore,83.04,13218.89,0.2852,0.0181,0.0872,0.0008
+Oyster,Mediterranean Sea,marine,filter_feeder,10.63,49.29,0.0321,0.0255,0.9459,0.0042
+Mahi-Mahi,Gulf of Mexico,marine,carnivore,100.54,8548.8,0.1785,,0.0991,
+Escolar,Mississippi River,marine,carnivore,187.13,51740.72,0.3396,,0.1276,0.0004
+Sardine,Amazon River,marine,carnivore,21.84,74.79,0.0285,0.0091,0.4451,0.0001
+Whitefish,Great Lakes,freshwater,carnivore,43.84,1673.19,0.051,,,0.0002
+Marlin,Gulf of Mexico,marine,carnivore,225.71,169296.54,1.4335,0.0111,0.0969,0.0004
+Salmon (Generic),Pacific Ocean,marine,carnivore,87.35,4955.19,0.0463,,0.1097,
+Sole,Gulf of Thailand,marine,carnivore,49.22,1509.21,0.0632,0.0089,0.1228,0.0001
+Cod,Sea of Japan,marine,carnivore,59.52,5940.03,0.084,,0.1293,0.0001
+Plaice,Arctic Ocean,marine,carnivore,30.13,974.3,,0.0064,,0.0001
+Bluefin Tuna,Baltic Sea,marine,carnivore,214.6,72829.3,,0.0283,0.1716,0.0003
+Clam,Gulf of Thailand,marine,filter_feeder,6.84,55.04,0.06,0.0134,1.146,
+Perch,North Atlantic,freshwater,carnivore,25.58,622.75,,0.0069,0.0063,
+Carp,Great Lakes,freshwater,omnivore,63.72,3524.52,0.2358,0.022,0.1434,0.0008
+Albacore Tuna,Gulf of Thailand,marine,carnivore,133.33,20880.03,0.1403,0.0193,0.0838,
+Bluegill,South Atlantic,freshwater,omnivore,22.24,214.48,0.0498,,,0.0
+Herring,Pacific Ocean,marine,carnivore,21.19,372.63,0.0634,,0.2076,0.0001
+Tilefish (Gulf),Amazon River,marine,carnivore,72.31,2873.95,1.4039,0.0268,0.086,0.0003
+Squid,Mediterranean Sea,marine,carnivore,20.42,250.69,0.048,,0.3314,0.0297
+Anchovy,North Sea,marine,carnivore,13.0,44.85,0.0476,0.0034,0.4423,0.0002
+Grouper,South Atlantic,marine,carnivore,44.82,4074.88,0.5251,,0.0546,
+Whitefish,Baltic Sea,freshwater,carnivore,53.92,1079.36,,0.0035,0.1635,0.0001
+Opah,Great Lakes,marine,carnivore,116.18,24652.86,0.3717,0.0209,0.1409,0.0004
+Bluefin Tuna,Amazon River,marine,carnivore,211.25,125053.09,1.2451,,0.1515,0.0007
+Bass (Freshwater),Arctic Ocean,freshwater,carnivore,41.18,2873.94,0.1474,0.0204,0.0952,0.0004
+Carp,Baltic Sea,freshwater,omnivore,49.29,2752.87,0.271,0.017,0.1706,0.0008
+Bluefin Tuna,Bay of Biscay,marine,carnivore,174.08,220461.44,0.8833,0.0142,0.1795,0.0003
+Grouper,Great Lakes,marine,carnivore,87.66,7362.14,,0.0188,0.1696,0.0005
+Lobster (Spiny),Great Lakes,marine,omnivore,39.83,442.84,0.0683,0.0141,0.3106,0.0037
+Halibut,Bering Sea,marine,carnivore,98.39,33585.76,0.1686,0.0261,0.1137,0.0005
+Sardine,Pacific Ocean,marine,carnivore,13.56,120.26,0.0044,0.0092,0.4663,0.0001
+Whiting,Amazon River,marine,carnivore,54.76,1366.27,0.0635,0.0088,0.174,0.0
+Grouper,Bay of Biscay,marine,carnivore,43.49,6235.91,0.3268,0.0106,0.1184,0.0008
+Bluefish,Bay of Biscay,marine,carnivore,67.07,5402.55,0.2776,0.0279,0.096,0.0004
+Walleye,Gulf of Thailand,freshwater,carnivore,37.87,3141.84,0.1266,,0.0959,0.0005
+Swordfish,Pacific Ocean,marine,carnivore,200.34,44585.02,,0.0189,0.1835,0.0003
+Shrimp,Gulf of Mexico,marine,omnivore,14.13,25.93,0.0492,0.0042,0.4982,
+Octopus,Amazon River,marine,carnivore,41.23,3688.6,0.0756,0.0058,,
+Pollock,Indian Ocean,marine,carnivore,65.69,2407.74,0.0448,0.0002,0.1232,0.0001
+Bluefin Tuna,Baltic Sea,marine,carnivore,230.79,92587.77,1.0267,0.0266,0.1608,0.0003
+Whitefish,Gulf of Thailand,freshwater,carnivore,58.02,851.16,0.0236,0.0049,0.1778,0.0001
+Perch,Great Lakes,freshwater,carnivore,31.47,329.94,,0.0045,0.0292,
+Tilefish (Gulf),Indian Ocean,marine,carnivore,70.3,4354.49,1.4029,,0.1014,0.0009
+Escolar,Bay of Biscay,marine,carnivore,191.78,50355.0,0.5969,0.0114,0.0997,
+Whiting,Great Lakes,marine,carnivore,58.35,1078.04,0.0732,,0.1082,0.0
+Shark,Amazon River,marine,carnivore,203.66,52973.95,1.3034,0.0108,0.1185,
+Salmon (Generic),Pacific Ocean,marine,carnivore,56.36,3442.56,0.0092,0.002,0.1961,0.0001
+Bigeye Tuna,Indian Ocean,marine,carnivore,121.95,46837.91,0.6054,,0.1768,0.0004
+Haddock,Amazon River,marine,carnivore,57.69,1390.46,0.0675,0.0042,0.1907,0.0001
+Swordfish,Pacific Ocean,marine,carnivore,217.75,41880.99,0.8976,0.0152,0.1595,0.001
+Orange Roughy,Baltic Sea,marine,carnivore,56.74,4561.07,0.4012,,,0.0008
+Cod,Mediterranean Sea,marine,carnivore,72.99,4770.32,0.078,0.0073,0.1799,
+Pike,Amazon River,freshwater,carnivore,89.52,9429.63,,,0.0941,0.0004
+Shark,Pacific Ocean,marine,carnivore,189.69,94627.99,,0.0151,0.1258,0.001
+Whitefish,Bering Sea,freshwater,carnivore,36.75,2077.18,0.0281,0.0094,0.1281,0.0001
+Crayfish,Bering Sea,freshwater,omnivore,9.49,68.9,0.0227,0.0092,0.4882,0.001
+Bass (Freshwater),Bay of Biscay,freshwater,carnivore,47.9,2673.14,0.2176,,0.1129,
+Squid,North Atlantic,marine,carnivore,33.38,358.98,0.0735,0.0052,0.2133,0.0279
+Trout,Caribbean Sea,freshwater,carnivore,55.49,1572.73,0.0784,0.0093,0.0369,0.0001
+Bass (Freshwater),Amazon River,freshwater,carnivore,57.86,3152.42,0.2421,0.0139,0.0901,
+Mahi-Mahi,Sea of Japan,marine,carnivore,111.14,8005.27,0.2881,0.0288,,0.0007
+Bluefish,Gulf of Thailand,marine,carnivore,72.7,4686.91,0.1612,0.0259,0.1168,0.0007
+Herring,Caribbean Sea,marine,carnivore,32.36,182.33,0.0634,0.0059,0.2391,0.0
+Crab,Pacific Ocean,marine,omnivore,11.04,271.6,,0.0233,,0.0048
+Crayfish,Bay of Biscay,freshwater,omnivore,12.63,96.18,0.025,0.0094,0.4475,0.0008
+Sole,Baltic Sea,marine,carnivore,51.17,1952.55,0.0398,0.0042,0.1446,
+Perch,Sea of Japan,freshwater,carnivore,19.71,753.84,0.0924,,0.0468,0.0001
+Bluegill,Bay of Biscay,freshwater,omnivore,19.56,201.97,,0.0033,0.0163,0.0001
+Perch,Mediterranean Sea,freshwater,carnivore,26.05,598.69,,0.0075,0.0204,0.0002
+Marlin,Caribbean Sea,marine,carnivore,229.19,103373.27,1.3555,0.012,0.1274,
+Whitefish,North Sea,freshwater,carnivore,55.73,1354.51,0.0853,0.0083,0.1436,0.0002
+Lobster (Spiny),Mediterranean Sea,marine,omnivore,34.8,918.72,0.0295,0.0256,0.2766,
+Whitefish,South Atlantic,freshwater,carnivore,41.59,962.3,0.0549,0.0088,0.0803,0.0001
+Lobster (Spiny),Great Lakes,marine,omnivore,25.42,1970.93,0.041,0.024,0.4071,0.0036
+Anchovy,Amazon River,marine,carnivore,11.45,24.8,0.0436,0.004,0.4927,0.0002
+Shark,Pacific Ocean,marine,carnivore,351.14,83032.92,1.4903,,0.0662,0.0007
+Tilefish (Gulf),North Sea,marine,carnivore,41.95,5744.15,,0.0217,,
+Sea Bass,Mississippi River,marine,carnivore,43.4,1092.41,0.1084,0.0179,0.1319,
+Whitefish,Caribbean Sea,freshwater,carnivore,40.15,2162.16,0.0897,,0.1125,
+Coho Salmon,Mediterranean Sea,marine,carnivore,58.13,4089.81,0.0229,0.0013,0.1905,0.0001
+Crab,Baltic Sea,marine,omnivore,18.11,571.97,0.0427,0.0197,0.3162,0.0022
+Escolar,Amazon River,marine,carnivore,100.79,46043.76,0.3919,0.0247,0.1377,0.0003
+Perch,Indian Ocean,freshwater,carnivore,22.62,535.64,0.0345,0.005,0.0051,0.0001
+Clam,Indian Ocean,marine,filter_feeder,6.42,48.93,0.0275,0.0156,0.79,0.0029
+Sockeye Salmon,Amazon River,marine,carnivore,60.83,2156.26,0.0433,,0.1915,0.0001
+Whitefish,Bay of Biscay,freshwater,carnivore,48.68,1193.48,0.0491,0.0046,0.1923,
+Squid,Gulf of Thailand,marine,carnivore,13.83,82.41,0.0451,0.0069,0.4915,0.0419
+Bluegill,Arctic Ocean,freshwater,omnivore,25.42,53.11,0.053,,0.0359,0.0
+Salmon (Generic),Indian Ocean,marine,carnivore,84.88,5174.99,0.0364,0.002,,0.0001
+Albacore Tuna,Pacific Ocean,marine,carnivore,114.73,12915.18,0.2703,0.0119,0.1652,
+Sole,Mediterranean Sea,marine,carnivore,27.77,1799.25,0.042,0.004,0.1189,0.0001
+Tilapia,South Atlantic,freshwater,herbivore,22.44,1070.43,0.0332,,0.0079,0.0
+Tilapia,Mississippi River,freshwater,herbivore,32.28,750.21,0.0473,,0.0255,0.0002
+Shark,North Atlantic,marine,carnivore,271.75,38136.22,0.874,,,0.0005
+Scallop,Mediterranean Sea,marine,filter_feeder,11.89,30.45,0.0685,,,0.003
+Mahi-Mahi,Mississippi River,marine,carnivore,114.82,6436.12,0.1173,,0.1648,0.0008
+Mahi-Mahi,Bering Sea,marine,carnivore,101.32,7903.21,,0.0113,0.1977,0.0009
+Bigeye Tuna,Gulf of Mexico,marine,carnivore,129.91,64419.35,0.5039,,0.0908,0.0007
+Lobster (Spiny),Arctic Ocean,marine,omnivore,24.77,497.53,0.0428,,,0.0027
+Walleye,Indian Ocean,freshwater,carnivore,58.18,1402.28,0.2771,0.0238,0.1745,0.0007
+Crab,Gulf of Thailand,marine,omnivore,22.05,616.41,0.0659,0.016,0.4747,0.0049
+Cod,North Sea,marine,carnivore,86.81,2485.9,0.0398,0.0042,0.198,0.0
+Marlin,Indian Ocean,marine,carnivore,298.46,134361.77,0.923,,0.0659,0.0008
+Salmon (Generic),North Atlantic,marine,carnivore,75.06,4672.15,0.01,,0.1884,0.0002
+Grouper,South Atlantic,marine,carnivore,76.35,9353.72,,0.0142,0.1476,0.0006
+Bigeye Tuna,Pacific Ocean,marine,carnivore,179.88,19477.42,0.6524,0.0273,0.1569,0.0008
+Marlin,Pacific Ocean,marine,carnivore,253.24,174463.05,,0.0104,0.1654,0.0005
+Tilefish (Gulf),North Sea,marine,carnivore,46.24,2970.92,1.1587,0.0178,,0.0009
+Bigeye Tuna,Indian Ocean,marine,carnivore,105.76,27139.68,0.3405,0.0273,0.0942,
+Oyster,Gulf of Mexico,marine,filter_feeder,12.92,72.35,0.0716,0.0109,1.0699,0.0015
+Shark,Baltic Sea,marine,carnivore,388.76,108715.56,0.8142,0.0148,0.127,0.0009
+Haddock,Mediterranean Sea,marine,carnivore,44.89,1726.7,0.0647,0.0088,0.1707,
+Plaice,Gulf of Mexico,marine,carnivore,45.17,1301.68,,0.0032,0.0866,
+Snapper,Pacific Ocean,marine,carnivore,63.93,2354.28,0.2108,0.0104,0.0677,0.0008
+Snapper,North Sea,marine,carnivore,60.34,2885.4,0.2972,0.0164,,0.0008
+Perch,Bay of Biscay,freshwater,carnivore,22.09,758.85,0.0268,0.0042,0.0194,
+Crab,Arctic Ocean,marine,omnivore,24.98,769.29,,0.0173,0.3607,0.002
+Marlin,Great Lakes,marine,carnivore,239.83,39393.73,1.0476,0.022,,0.0003
+Perch,Arctic Ocean,freshwater,carnivore,35.77,490.58,0.0742,0.0066,0.0242,0.0001
+Bigeye Tuna,Bering Sea,marine,carnivore,117.61,17712.07,0.6844,0.0194,0.1707,0.0008
+Bluefish,North Atlantic,marine,carnivore,47.73,3016.28,0.2295,0.017,0.112,
+Octopus,Gulf of Thailand,marine,carnivore,52.94,852.87,,0.0063,0.4769,0.0315
+King Mackerel,Mediterranean Sea,marine,carnivore,58.81,11081.47,0.979,,0.0824,0.0004
+Skipjack Tuna,Mississippi River,marine,carnivore,92.78,12237.25,0.1956,,0.0544,0.0004
+Sockeye Salmon,Pacific Ocean,marine,carnivore,70.64,3321.53,0.0343,0.0007,0.0792,
+Salmon (Generic),Bering Sea,marine,carnivore,51.76,2087.82,0.0281,0.0007,0.1532,0.0002
+Mussel,Gulf of Thailand,marine,filter_feeder,8.87,71.15,0.0562,0.0253,0.8206,
+Shark,Baltic Sea,marine,carnivore,203.06,124696.59,1.3893,,0.1408,0.0007
+Sardine,Caribbean Sea,marine,carnivore,21.14,89.5,,0.0041,0.2237,0.0001
+Sole,Bering Sea,marine,carnivore,26.68,1744.67,0.0394,0.0031,0.145,0.0001
+Herring,Baltic Sea,marine,carnivore,26.55,145.85,0.0699,0.0036,0.4992,0.0001
+Carp,Great Lakes,freshwater,omnivore,33.92,5058.13,0.2516,0.0132,,0.0002
+Haddock,Bering Sea,marine,carnivore,74.23,1683.82,0.0573,0.0039,0.0564,0.0001
+Bigeye Tuna,Sea of Japan,marine,carnivore,173.24,19639.49,0.4562,,0.129,0.0005
+Tilefish (Gulf),Great Lakes,marine,carnivore,76.53,3648.8,0.788,0.0204,0.1149,0.0004
+Lobster (Spiny),Sea of Japan,marine,omnivore,21.72,1502.71,0.0462,,0.2336,0.0045
+Coho Salmon,North Sea,marine,carnivore,55.87,4531.37,0.0384,0.0024,0.1495,0.0001
+Bluegill,Gulf of Thailand,freshwater,omnivore,22.58,170.7,0.0365,,0.0499,0.0001
+Bluegill,Gulf of Thailand,freshwater,omnivore,29.73,68.07,0.061,0.0044,0.0295,0.0002
+Trout,North Sea,freshwater,carnivore,58.49,1751.87,0.0725,0.0034,0.035,
+Tilapia,Bering Sea,freshwater,herbivore,27.91,990.96,0.0048,0.008,0.0081,0.0
+Plaice,Great Lakes,marine,carnivore,34.95,1691.11,,,0.1188,0.0002
+Sockeye Salmon,Arctic Ocean,marine,carnivore,53.12,2483.14,,0.0004,,0.0001
+Haddock,Caribbean Sea,marine,carnivore,69.16,2051.55,0.0575,0.0069,0.1454,
+Pollock,Indian Ocean,marine,carnivore,47.6,3322.7,0.0418,0.0008,0.1678,0.0002
+Anchovy,Pacific Ocean,marine,carnivore,9.08,42.67,,0.0085,0.3532,0.0001
+Shrimp,Mississippi River,marine,omnivore,9.15,17.18,0.039,0.0099,0.4716,
+Mussel,Gulf of Mexico,marine,filter_feeder,5.92,64.87,0.0835,0.0274,0.9625,0.0023
+Walleye,Indian Ocean,freshwater,carnivore,53.15,1732.36,0.2668,0.0119,0.054,0.0004
+Orange Roughy,Mediterranean Sea,marine,carnivore,64.69,4598.76,0.5881,,0.1982,0.0008
+Orange Roughy,Bering Sea,marine,carnivore,57.44,2238.79,0.4917,0.0235,0.1424,0.0006
+Whitefish,Mississippi River,freshwater,carnivore,49.19,1895.95,0.0557,0.0081,0.092,0.0001
+Salmon (Generic),Great Lakes,marine,carnivore,67.67,5679.2,,0.0011,0.0783,
+Lobster (Spiny),South Atlantic,marine,omnivore,28.89,1906.49,0.0355,0.0138,0.472,0.0042
+Sole,Caribbean Sea,marine,carnivore,41.53,1204.62,0.0931,,,0.0001
+Oyster,Caribbean Sea,marine,filter_feeder,6.55,66.97,0.0344,0.0133,1.1962,0.004
+Tilefish (Gulf),Gulf of Thailand,marine,carnivore,40.5,4478.89,0.7349,0.0182,0.0831,
+Plaice,Baltic Sea,marine,carnivore,36.61,1550.19,0.0686,0.0073,0.0995,0.0001
+Anchovy,Mediterranean Sea,marine,carnivore,12.83,48.08,0.0418,0.005,0.3557,0.0002
+Squid,Amazon River,marine,carnivore,24.05,244.77,0.0708,0.0072,0.3932,0.0106
+Bluefish,Amazon River,marine,carnivore,65.59,2618.29,0.1299,0.0143,,0.0007
+Salmon (Generic),Mediterranean Sea,marine,carnivore,69.42,3138.98,0.0017,0.0026,0.1868,0.0001
+Clam,Sea of Japan,marine,filter_feeder,6.25,22.16,0.0415,0.0109,1.1521,0.0013
+Halibut,Sea of Japan,marine,carnivore,137.72,34574.95,0.2139,0.0173,,0.0005
+Sea Bass,Amazon River,marine,carnivore,65.86,1660.46,0.172,0.0188,0.197,0.0006
+Yellowfin Tuna,Arctic Ocean,marine,carnivore,198.67,29390.32,0.4422,0.0264,0.1945,0.001
+Crab,South Atlantic,marine,omnivore,24.45,268.5,0.0387,0.0133,,0.0041
+Bluegill,Mediterranean Sea,freshwater,omnivore,24.9,170.11,0.0884,,0.0431,
+Bluefish,Amazon River,marine,carnivore,72.42,2717.89,0.2404,,0.1059,0.0007
+Herring,Baltic Sea,marine,carnivore,34.32,225.1,,,0.329,0.0002
+Coho Salmon,North Sea,marine,carnivore,67.59,2904.03,0.0414,0.0013,,0.0001
+Snapper,Mediterranean Sea,marine,carnivore,50.28,2124.09,0.1991,,0.0637,0.0009
+Pike,Amazon River,freshwater,carnivore,73.72,4108.25,0.2574,0.0265,0.1151,0.0009
+Scallop,Gulf of Thailand,marine,filter_feeder,8.25,21.89,0.0325,,0.5151,0.0028
+Tilefish (Gulf),North Atlantic,marine,carnivore,47.15,2629.81,1.3883,0.0174,0.0514,0.0006
+Scallop,Pacific Ocean,marine,filter_feeder,8.83,69.05,0.0936,,1.1565,
+Lobster (American),Great Lakes,marine,omnivore,36.02,1641.0,0.0745,0.0253,0.2552,0.0027
+Clam,Amazon River,marine,filter_feeder,7.58,23.5,0.0546,0.0256,1.4794,0.0026
+Plaice,South Atlantic,marine,carnivore,46.98,1148.61,,0.0097,0.0836,0.0001
+Lobster (American),Sea of Japan,marine,omnivore,23.42,1448.15,,0.0133,0.2539,0.0012
+Crab,Sea of Japan,marine,omnivore,18.19,253.47,0.027,0.0294,0.2701,
+Anchovy,South Atlantic,marine,carnivore,9.64,36.57,0.0362,0.0084,,0.0001
+Carp,Bering Sea,freshwater,omnivore,60.48,5546.14,0.217,0.0223,0.1075,0.001
+Anchovy,Indian Ocean,marine,carnivore,13.74,25.1,0.0198,0.0094,0.4293,0.0002
+Shark,South Atlantic,marine,carnivore,234.98,194944.78,,0.0155,0.1889,0.0008
+Mussel,Gulf of Mexico,marine,filter_feeder,6.77,58.56,0.0418,0.0153,1.0248,0.0041
+Octopus,Indian Ocean,marine,carnivore,54.39,589.8,0.0881,0.0099,0.3299,0.0404
+Herring,Amazon River,marine,carnivore,22.41,183.25,0.031,0.0073,0.4414,0.0002
+Anchovy,Mediterranean Sea,marine,carnivore,9.55,33.07,0.032,0.0041,0.4766,0.0001
+Grouper,Mississippi River,marine,carnivore,44.46,6074.63,0.6875,,,0.0007
+Carp,Sea of Japan,freshwater,omnivore,50.69,2822.61,0.1327,0.0276,0.1694,0.001
+Bluegill,Baltic Sea,freshwater,omnivore,20.4,119.68,0.0964,0.0071,0.0417,0.0001
+Squid,Pacific Ocean,marine,carnivore,35.5,486.7,0.0872,0.0056,0.2648,0.0336
+Coho Salmon,North Atlantic,marine,carnivore,68.33,3937.0,,0.0011,0.113,0.0001
+Halibut,Great Lakes,marine,carnivore,144.97,33695.17,0.2075,0.0232,0.1521,
+Lobster (Spiny),Gulf of Thailand,marine,omnivore,43.08,421.82,0.0546,0.0271,0.2243,0.0011
+Marlin,Pacific Ocean,marine,carnivore,166.41,196860.92,0.8897,0.0222,,0.001
+Bass (Freshwater),Sea of Japan,freshwater,carnivore,35.51,3420.62,,0.0297,0.1304,
+Herring,Gulf of Thailand,marine,carnivore,29.48,340.39,0.0278,0.0081,0.3268,0.0001
+Bluegill,Gulf of Mexico,freshwater,omnivore,17.47,204.42,0.085,0.0067,,0.0
+Oyster,Gulf of Thailand,marine,filter_feeder,6.29,64.21,0.096,0.025,0.8924,0.0037
+Escolar,Caribbean Sea,marine,carnivore,188.3,41990.43,0.483,0.0292,0.1532,0.0008
+Tilapia,Amazon River,freshwater,herbivore,33.07,627.36,0.0272,0.0048,0.0087,0.0
+Scallop,South Atlantic,marine,filter_feeder,10.83,47.98,0.069,0.0251,,0.0026
+Clam,Mississippi River,marine,filter_feeder,8.1,50.65,0.0613,0.0215,1.0023,
+Perch,Caribbean Sea,freshwater,carnivore,15.02,645.6,0.0734,0.0093,0.048,0.0002
+Mussel,Amazon River,marine,filter_feeder,8.59,67.45,0.0596,0.0177,0.851,
+Coho Salmon,Gulf of Thailand,marine,carnivore,73.6,3232.27,0.017,0.0019,0.1102,0.0002
+Crab,Bering Sea,marine,omnivore,23.81,387.27,0.0973,0.0243,,0.0032
+Escolar,Gulf of Mexico,marine,carnivore,191.54,8827.46,,0.0169,,0.001
+Marlin,Amazon River,marine,carnivore,245.67,142988.5,1.1711,,0.1217,0.0009
+Coho Salmon,South Atlantic,marine,carnivore,57.16,3335.34,0.0395,0.0004,0.0998,0.0001
+Catfish,North Atlantic,freshwater,omnivore,32.28,2198.73,0.0154,0.0052,0.0342,0.0002
+Crab,Bering Sea,marine,omnivore,13.26,370.7,0.0405,,0.2666,0.0033
+Bluefish,North Sea,marine,carnivore,46.54,2766.39,0.2827,0.026,0.1452,0.0007
+Oyster,Arctic Ocean,marine,filter_feeder,12.51,36.4,0.0885,0.0273,1.1877,0.0035
+Octopus,Bering Sea,marine,carnivore,74.41,2188.15,0.0353,0.0066,0.2885,0.0195
+Bass (Freshwater),Mississippi River,freshwater,carnivore,27.07,2699.22,0.2952,0.0175,,0.0004
+Whitefish,Gulf of Mexico,freshwater,carnivore,42.77,2640.48,0.0478,0.0074,0.126,0.0
+Bluefin Tuna,Indian Ocean,marine,carnivore,178.93,33331.14,1.3477,0.0186,0.153,0.0003
+Bass (Freshwater),Bay of Biscay,freshwater,carnivore,46.12,3082.43,,,0.1148,0.0009
+Crayfish,Amazon River,freshwater,omnivore,13.19,73.18,,0.0087,0.4452,0.0008
+Catfish,North Sea,freshwater,omnivore,26.15,2298.57,0.0348,0.0061,0.0404,
+Coho Salmon,Baltic Sea,marine,carnivore,64.1,4517.11,0.0471,0.0005,0.0764,
+Lobster (American),Caribbean Sea,marine,omnivore,27.63,1348.6,0.0368,0.0184,0.4836,0.0049
+Yellowfin Tuna,Gulf of Thailand,marine,carnivore,165.45,53915.01,0.3089,0.0227,,0.0007
+Herring,Amazon River,marine,carnivore,31.33,197.37,0.0271,0.0092,,0.0002
+Scallop,Gulf of Mexico,marine,filter_feeder,10.39,58.08,0.0706,0.0214,0.6814,0.0017
+Sea Bass,North Sea,marine,carnivore,72.0,4599.42,0.1158,0.0189,0.0806,0.0005
+Bass (Freshwater),Amazon River,freshwater,carnivore,32.07,541.44,0.2892,0.0106,0.0919,0.0002
+Whitefish,Baltic Sea,freshwater,carnivore,42.86,1367.61,0.0215,0.0053,,0.0001
+Opah,Great Lakes,marine,carnivore,157.35,43330.06,0.6623,0.029,0.1313,0.001
+Shark,Baltic Sea,marine,carnivore,350.0,82437.7,0.8952,0.0142,,0.0005
+Atlantic Salmon,Indian Ocean,marine,carnivore,82.62,4272.2,0.0158,0.0009,0.168,0.0002
+King Mackerel,North Atlantic,marine,carnivore,98.03,6555.13,,0.0248,,0.0006
+Plaice,Bay of Biscay,marine,carnivore,47.05,1038.12,0.0289,,,0.0001
+Lobster (American),Indian Ocean,marine,omnivore,27.05,1904.54,0.0908,0.025,0.3333,0.0024
+Marlin,Great Lakes,marine,carnivore,276.75,80093.66,0.8754,0.0285,0.1395,0.0005
+Crab,Indian Ocean,marine,omnivore,15.19,735.49,0.0265,0.0109,0.2267,0.0021
+Clam,Bay of Biscay,marine,filter_feeder,5.28,17.51,0.0889,0.027,0.6769,0.0029
+Bluefin Tuna,Mississippi River,marine,carnivore,242.3,207258.86,0.753,0.0143,0.0977,0.0007
+Tilefish (Gulf),North Sea,marine,carnivore,66.04,5064.99,1.0655,0.0199,0.1727,0.0005
+Squid,Mediterranean Sea,marine,carnivore,34.19,71.9,0.0781,0.008,,0.0405
+Shrimp,Caribbean Sea,marine,omnivore,11.06,10.98,0.0486,0.0053,0.2217,0.0003
+Sockeye Salmon,North Sea,marine,carnivore,64.48,2591.64,0.0411,0.0009,0.1575,0.0001
+Grouper,Amazon River,marine,carnivore,51.88,7168.97,0.3296,0.0181,0.0607,0.0005
+Pike,Indian Ocean,freshwater,carnivore,66.82,2120.17,0.2116,0.0198,0.137,0.0007
+Bluegill,Bering Sea,freshwater,omnivore,26.94,261.33,0.0877,0.0056,,0.0
+Tilefish (Gulf),Bering Sea,marine,carnivore,44.13,3983.22,1.3853,0.013,0.199,0.0008
+Pollock,Gulf of Mexico,marine,carnivore,83.26,3380.64,0.0436,0.0013,0.1201,0.0001
+Sea Bass,Amazon River,marine,carnivore,49.71,4485.0,,0.0192,0.1387,0.0005
+King Mackerel,Great Lakes,marine,carnivore,66.98,3901.63,1.2378,0.0258,0.0738,0.0005
+Mussel,Amazon River,marine,filter_feeder,6.85,37.33,0.0857,0.025,0.7092,0.0017
+Skipjack Tuna,Gulf of Thailand,marine,carnivore,62.46,23694.39,0.1416,0.0268,0.1483,
+Carp,Indian Ocean,freshwater,omnivore,48.4,4762.7,0.1171,0.017,0.1877,0.0009
+Walleye,Pacific Ocean,freshwater,carnivore,47.35,1826.17,0.2456,0.0181,0.1636,0.0009
+Perch,Mississippi River,freshwater,carnivore,37.29,347.62,,0.0031,0.0385,0.0001
+Octopus,Mississippi River,marine,carnivore,74.89,942.69,0.0794,0.0063,0.2997,0.0418
+Walleye,Baltic Sea,freshwater,carnivore,70.17,3700.49,0.1857,0.0287,,0.0004
+Atlantic Salmon,Mediterranean Sea,marine,carnivore,67.57,5464.84,,0.0005,,0.0
+Catfish,Indian Ocean,freshwater,omnivore,37.47,1885.77,0.0116,0.0091,0.015,0.0
+Flounder,South Atlantic,marine,carnivore,46.57,1539.31,0.0583,0.0032,0.0776,0.0002
+Tilapia,Pacific Ocean,freshwater,herbivore,31.37,896.51,,0.0053,0.038,
+Pollock,Baltic Sea,marine,carnivore,41.87,2148.8,0.0111,0.0017,0.1627,0.0001
+Perch,Bay of Biscay,freshwater,carnivore,35.31,688.4,0.0337,0.0081,0.0194,0.0002
+Walleye,Indian Ocean,freshwater,carnivore,55.7,3374.85,0.147,0.0216,,0.0009
+King Mackerel,Gulf of Thailand,marine,carnivore,115.55,4072.43,0.8036,0.014,0.0563,
+Scallop,Mediterranean Sea,marine,filter_feeder,10.43,61.01,0.0344,0.0289,0.6153,0.0027
+Plaice,North Sea,marine,carnivore,27.43,828.73,0.0352,0.0046,0.1497,0.0002
+Crayfish,North Atlantic,freshwater,omnivore,13.21,30.38,0.0203,0.009,0.3573,0.0005
+Walleye,Gulf of Thailand,freshwater,carnivore,78.67,2103.31,0.2066,0.0187,0.1162,0.0007
+Grouper,Bay of Biscay,marine,carnivore,85.67,2782.09,,0.0211,0.1512,0.0007
+Tilefish (Gulf),North Sea,marine,carnivore,79.25,3315.33,1.2641,0.0102,0.1907,0.0002
+Albacore Tuna,Gulf of Mexico,marine,carnivore,113.16,12665.5,0.168,0.0244,0.1233,0.0004
+Cod,Bering Sea,marine,carnivore,59.9,5580.94,0.0823,0.0052,0.1556,0.0
+Pollock,Pacific Ocean,marine,carnivore,42.49,2722.53,0.0427,0.0025,0.1361,0.0001
+Walleye,Caribbean Sea,freshwater,carnivore,64.02,2880.94,0.166,0.025,0.0776,0.0003
+Bluefin Tuna,Gulf of Thailand,marine,carnivore,172.98,45188.51,1.2145,0.0125,0.1886,0.0003
+Carp,Gulf of Mexico,freshwater,omnivore,60.01,2867.9,,0.0276,0.0554,0.0003
+Grouper,North Sea,marine,carnivore,46.12,9911.36,0.637,0.0179,0.0522,0.0008
+Grouper,Baltic Sea,marine,carnivore,50.27,6363.03,,0.0198,0.1678,0.0007
+Bass (Freshwater),Sea of Japan,freshwater,carnivore,28.89,974.24,0.1628,0.028,0.0847,
+Perch,North Sea,freshwater,carnivore,34.22,310.69,0.0969,0.0034,,0.0
+Crayfish,Pacific Ocean,freshwater,omnivore,13.02,81.56,0.0107,0.0045,0.3799,0.0005
+Bluefin Tuna,Indian Ocean,marine,carnivore,212.63,79659.34,1.0955,0.0226,,0.0004
+Sea Bass,Caribbean Sea,marine,carnivore,52.48,6606.3,0.2115,0.0188,0.0792,0.0007
+Bluegill,Baltic Sea,freshwater,omnivore,19.51,56.55,0.0636,0.0031,0.0173,0.0001
+Clam,Indian Ocean,marine,filter_feeder,6.6,42.64,0.0204,0.0147,,
+Scallop,Indian Ocean,marine,filter_feeder,10.03,42.46,0.0797,,0.9568,0.0017
+Carp,Bering Sea,freshwater,omnivore,34.92,4418.79,0.116,0.0243,0.1136,0.0006
+Bigeye Tuna,Mediterranean Sea,marine,carnivore,138.59,15116.64,,0.0201,0.0653,0.0007
+Bluefin Tuna,North Atlantic,marine,carnivore,170.74,201153.73,0.8346,0.0135,0.158,
+Perch,North Sea,freshwater,carnivore,25.67,751.83,0.0422,0.0071,0.0146,0.0
+Whitefish,North Sea,freshwater,carnivore,45.06,1138.45,0.0897,0.0097,0.1048,0.0002
+Catfish,Mississippi River,freshwater,omnivore,27.06,2760.25,0.0131,0.009,0.0474,
+Yellowfin Tuna,Mediterranean Sea,marine,carnivore,102.81,55176.91,0.6116,0.0115,0.1193,0.0002
+Opah,Sea of Japan,marine,carnivore,140.91,50031.32,0.3291,0.0241,,
+Sardine,Gulf of Mexico,marine,carnivore,20.59,138.12,0.039,0.0088,0.4102,0.0001
+Marlin,Pacific Ocean,marine,carnivore,156.52,182375.76,0.823,,,0.0007
+Bluefish,South Atlantic,marine,carnivore,56.29,5410.44,0.2316,0.0268,0.1878,
+Halibut,Indian Ocean,marine,carnivore,98.65,32102.46,0.1045,0.0258,0.1525,0.0008
+Lobster (American),Sea of Japan,marine,omnivore,33.01,930.93,0.0266,0.0293,0.2136,0.0023
+Coho Salmon,Amazon River,marine,carnivore,62.92,2765.65,0.0286,0.0005,0.1085,0.0001
+Marlin,Arctic Ocean,marine,carnivore,173.67,104181.39,0.935,,0.1473,0.0003
+Bigeye Tuna,Bering Sea,marine,carnivore,101.19,15055.95,,0.0219,0.0566,0.0008
+Flounder,Baltic Sea,marine,carnivore,30.68,1787.35,0.0519,0.0077,0.0874,
+Atlantic Salmon,Gulf of Thailand,marine,carnivore,62.21,3878.18,0.0032,0.0008,0.0871,0.0001
+Bass (Freshwater),Baltic Sea,freshwater,carnivore,44.38,2325.03,0.1834,,0.1971,0.0004
+Mahi-Mahi,Great Lakes,marine,carnivore,115.86,11557.72,0.266,0.0209,0.0712,0.0007
+Flounder,North Sea,marine,carnivore,56.27,908.38,0.0991,0.0067,0.1708,0.0001
+Halibut,Amazon River,marine,carnivore,196.49,54343.42,0.1021,0.0158,0.0702,
+Shark,Arctic Ocean,marine,carnivore,378.03,156211.29,1.4941,0.0162,0.153,0.0006
+Sole,Bering Sea,marine,carnivore,42.89,1989.05,0.0577,,0.153,0.0
+Tilefish (Gulf),Pacific Ocean,marine,carnivore,55.86,6680.87,1.4547,0.0181,,0.0009
+Tilapia,Sea of Japan,freshwater,herbivore,34.41,993.61,0.0287,0.004,0.0414,0.0
+Trout,Sea of Japan,freshwater,carnivore,38.88,1790.16,0.0604,,0.0187,
+Lobster (American),Arctic Ocean,marine,omnivore,20.83,1772.78,0.0975,0.0274,0.474,0.0045
+Cod,Bering Sea,marine,carnivore,64.05,6435.96,0.0344,0.0055,0.1971,
+Squid,Indian Ocean,marine,carnivore,13.5,174.78,0.0525,0.004,0.3038,0.0152
+Salmon (Generic),Bering Sea,marine,carnivore,64.19,4524.99,0.0326,0.0024,,0.0001
+Clam,Bering Sea,marine,filter_feeder,7.42,19.7,0.0992,0.0282,0.642,0.0011
+Coho Salmon,Pacific Ocean,marine,carnivore,66.24,2601.58,0.0322,0.0007,0.1672,0.0
+King Mackerel,Arctic Ocean,marine,carnivore,56.39,14435.16,,0.0112,0.1397,0.0008
+Halibut,Mississippi River,marine,carnivore,83.29,59707.54,0.2919,0.0175,0.1378,0.0009
+Grouper,Bering Sea,marine,carnivore,89.83,2660.31,0.4817,,0.1742,0.0005
+Shrimp,Bay of Biscay,marine,omnivore,16.07,30.28,0.0255,0.0045,0.4346,0.001
+Mussel,Pacific Ocean,marine,filter_feeder,6.52,72.94,0.0807,0.0112,1.2431,0.0031
+Coho Salmon,Caribbean Sea,marine,carnivore,55.25,4165.9,0.015,0.0022,0.168,0.0002
+Opah,Pacific Ocean,marine,carnivore,132.17,19532.17,0.4424,,,0.0004
+Shrimp,Caribbean Sea,marine,omnivore,18.16,25.09,,0.0043,0.463,0.001
+Pollock,Pacific Ocean,marine,carnivore,89.36,4325.95,0.004,0.0011,,0.0002
+Tilefish (Gulf),Arctic Ocean,marine,carnivore,53.97,2284.88,1.3428,,0.0647,0.0004
+Catfish,North Sea,freshwater,omnivore,59.21,2814.9,0.0407,,0.0058,0.0001
+Plaice,Arctic Ocean,marine,carnivore,34.68,544.13,0.0861,0.0066,0.1964,0.0002
+Marlin,Bay of Biscay,marine,carnivore,279.3,103076.83,,0.0223,0.0735,0.0003
+Orange Roughy,Bering Sea,marine,carnivore,64.79,2839.31,0.4954,0.0284,0.1511,0.0004
+Mussel,Bay of Biscay,marine,filter_feeder,6.47,19.66,0.0667,0.0283,1.0334,0.0012
+Snapper,North Atlantic,marine,carnivore,55.36,2902.72,0.2719,,0.0558,0.0002
+Anchovy,Bay of Biscay,marine,carnivore,9.65,38.8,0.0043,,0.3707,0.0001
+Anchovy,Bering Sea,marine,carnivore,8.96,45.32,0.0359,0.0068,0.3838,0.0001
+Oyster,North Sea,marine,filter_feeder,7.18,29.7,0.0508,0.0242,,0.0014
+Oyster,North Sea,marine,filter_feeder,6.61,69.41,0.051,,0.8997,
+Whitefish,Sea of Japan,freshwater,carnivore,44.76,1356.22,0.0835,0.0064,0.1017,0.0
+Walleye,Gulf of Mexico,freshwater,carnivore,63.0,1553.83,0.2136,0.0191,0.1764,0.0004
+Lobster (Spiny),Baltic Sea,marine,omnivore,27.8,638.73,0.0876,0.0129,0.3999,0.002
+Carp,Mississippi River,freshwater,omnivore,54.69,1023.97,0.2226,0.0235,0.0649,0.0005
+Bluefish,Mediterranean Sea,marine,carnivore,49.82,5207.28,0.2447,0.0264,0.1502,0.0004
+Scallop,Baltic Sea,marine,filter_feeder,7.9,41.61,0.0953,0.0203,1.1753,0.0011
+Cod,Mississippi River,marine,carnivore,65.12,3908.42,0.0946,0.0073,0.1039,
+Sea Bass,Bering Sea,marine,carnivore,76.81,3459.23,0.2964,0.0255,0.1315,0.0008
+Atlantic Salmon,Pacific Ocean,marine,carnivore,74.52,5999.57,0.0231,0.0011,0.1481,0.0001
+Crayfish,Sea of Japan,freshwater,omnivore,13.14,60.94,0.0143,,0.4405,0.0003
+Bass (Freshwater),Arctic Ocean,freshwater,carnivore,28.54,3202.32,0.1374,0.0208,0.1846,
+Escolar,Amazon River,marine,carnivore,172.58,11541.69,0.6428,0.0248,,0.0005
+Shark,South Atlantic,marine,carnivore,171.52,109720.48,1.4894,0.0167,0.1316,0.0008
+Lobster (American),North Atlantic,marine,omnivore,30.75,1610.42,0.0493,0.0278,0.2916,0.0011
+Whitefish,Great Lakes,freshwater,carnivore,42.82,2657.14,0.0298,0.003,0.143,0.0
+Crab,Bay of Biscay,marine,omnivore,13.28,738.42,,,0.3266,0.0011
+Clam,North Atlantic,marine,filter_feeder,5.76,39.04,0.0918,0.0122,,0.0019
+Carp,Mediterranean Sea,freshwater,omnivore,60.01,5956.06,0.1006,,0.0575,
+Sockeye Salmon,Indian Ocean,marine,carnivore,59.34,3267.54,0.0162,0.0022,0.175,0.0001
+Opah,North Sea,marine,carnivore,115.99,68762.37,0.3652,0.0151,0.1556,0.0009
+Scallop,Caribbean Sea,marine,filter_feeder,9.5,20.39,0.0291,0.0221,1.2992,
+Halibut,Sea of Japan,marine,carnivore,152.76,23954.78,0.2224,,0.1451,0.0007
+Tilapia,Baltic Sea,freshwater,herbivore,20.1,1326.12,0.0164,0.0087,0.0402,0.0
+Whiting,Arctic Ocean,marine,carnivore,56.78,1888.87,0.0416,,0.1716,0.0001
+Cod,Arctic Ocean,marine,carnivore,65.7,3000.76,,0.005,0.1582,0.0
+Snapper,Bering Sea,marine,carnivore,51.7,1854.48,0.1279,0.0124,0.1858,0.001
+Mussel,North Atlantic,marine,filter_feeder,9.45,21.1,0.028,0.0183,0.5905,0.0028
+Clam,South Atlantic,marine,filter_feeder,7.54,44.23,0.0231,0.0238,1.0841,0.0038
+Swordfish,Sea of Japan,marine,carnivore,217.38,36802.51,1.1847,0.015,0.069,
+Marlin,Mediterranean Sea,marine,carnivore,253.63,185762.74,1.0398,0.0278,0.1867,0.0003
+Sea Bass,Sea of Japan,marine,carnivore,78.51,5170.74,0.1966,0.0129,0.1812,0.0009
+Octopus,Mississippi River,marine,carnivore,29.05,1168.12,0.0606,0.0098,0.4434,0.0278
+Tilapia,Gulf of Mexico,freshwater,herbivore,40.48,975.44,0.0054,0.0058,0.0386,0.0
+Anchovy,Caribbean Sea,marine,carnivore,14.41,40.11,0.0121,0.008,0.408,0.0002
+Salmon (Generic),Gulf of Thailand,marine,carnivore,60.36,3592.27,,0.0023,0.1524,0.0001
+Haddock,Gulf of Mexico,marine,carnivore,53.43,1029.06,,0.008,0.0734,
+Octopus,Gulf of Thailand,marine,carnivore,32.89,295.61,0.0422,0.0061,0.2264,0.0323
+Skipjack Tuna,Amazon River,marine,carnivore,90.42,12935.79,0.2705,,,0.0007
+Shark,North Atlantic,marine,carnivore,312.35,175415.87,0.7029,0.0203,0.158,0.0009
+Clam,Mediterranean Sea,marine,filter_feeder,6.19,43.05,0.09,0.0227,,0.0033
+Mussel,Pacific Ocean,marine,filter_feeder,6.57,74.64,0.0319,0.0103,,0.0023
+Snapper,Great Lakes,marine,carnivore,59.49,2922.7,0.2182,0.0229,0.0639,0.0009
+Tilefish (Gulf),Pacific Ocean,marine,carnivore,67.36,6283.0,1.2038,0.0116,0.1978,
+Shark,Baltic Sea,marine,carnivore,292.99,123832.98,0.9605,0.0228,,0.0008
+Bigeye Tuna,Mississippi River,marine,carnivore,110.69,58117.54,0.3055,0.0198,0.0978,0.001
+Clam,Sea of Japan,marine,filter_feeder,7.93,15.41,,0.0233,1.3298,0.0012
+Bluefish,North Sea,marine,carnivore,53.31,4470.33,0.2941,0.0277,,0.0008
+Bluefin Tuna,Mediterranean Sea,marine,carnivore,156.62,203526.62,0.7892,,0.0703,0.0008
+Carp,Mediterranean Sea,freshwater,omnivore,60.3,5799.22,0.2149,0.0226,0.0604,0.0007
+Whitefish,Pacific Ocean,freshwater,carnivore,42.6,852.08,0.0961,0.0077,0.1014,
+Swordfish,Arctic Ocean,marine,carnivore,155.58,43837.73,1.3512,0.0236,0.1954,0.0004
+Bluefish,Gulf of Thailand,marine,carnivore,74.91,3729.36,,0.015,0.1744,0.0004
+Plaice,Gulf of Thailand,marine,carnivore,26.16,1688.62,0.0608,0.0085,0.1317,0.0001
+Carp,Caribbean Sea,freshwater,omnivore,56.32,3402.83,0.2715,0.0189,,0.0009
+Snapper,North Atlantic,marine,carnivore,30.99,843.95,0.1023,0.0103,0.068,0.0004
+Squid,Amazon River,marine,carnivore,39.0,356.91,0.0561,0.0056,0.3471,0.0336
+Pollock,Mediterranean Sea,marine,carnivore,42.79,4415.09,0.0484,0.0021,0.1897,0.0001
+Herring,North Atlantic,marine,carnivore,23.08,301.41,0.0999,0.0082,,0.0001
+Whiting,Mediterranean Sea,marine,carnivore,55.38,899.45,,0.0083,0.0936,0.0002
+Crayfish,Bay of Biscay,freshwater,omnivore,8.25,59.3,0.0166,0.0092,0.3481,0.0009
+Plaice,Bering Sea,marine,carnivore,25.88,1003.65,0.0438,0.0045,0.0779,0.0
+Bluegill,Baltic Sea,freshwater,omnivore,25.02,284.61,0.0973,,0.0394,0.0001
+Snapper,Great Lakes,marine,carnivore,68.73,3223.51,0.1996,0.0227,0.0554,0.0005
+Atlantic Salmon,Baltic Sea,marine,carnivore,87.61,5901.04,0.0387,0.0004,0.1364,0.0001
+Snapper,Arctic Ocean,marine,carnivore,59.53,1932.96,0.208,0.0192,,0.0006
+Sole,Bay of Biscay,marine,carnivore,50.25,1634.13,0.0761,0.0093,,0.0001
+Bluefin Tuna,Great Lakes,marine,carnivore,163.03,133946.74,0.8575,0.0157,0.0871,
+Walleye,North Atlantic,freshwater,carnivore,59.81,2656.13,,0.0253,0.1483,0.0005
+Scallop,Great Lakes,marine,filter_feeder,11.46,27.85,0.0373,0.0297,0.7194,0.0031
+Flounder,Mediterranean Sea,marine,carnivore,44.12,1844.12,0.0859,0.0098,0.1711,0.0001
+Shrimp,Bering Sea,marine,omnivore,9.01,23.63,0.0059,0.0043,0.4788,0.0006
+Sardine,Sea of Japan,marine,carnivore,17.68,65.3,0.0421,0.0063,0.4313,0.0001
+Carp,Sea of Japan,freshwater,omnivore,69.64,1281.83,0.2742,0.0285,0.1451,0.0008
+Halibut,Gulf of Mexico,marine,carnivore,198.36,24794.71,0.1409,,0.1201,0.0003
+Flounder,North Atlantic,marine,carnivore,42.4,1337.88,0.0505,0.0039,0.0946,0.0002
+Whiting,Baltic Sea,marine,carnivore,59.31,1935.71,0.0784,0.0044,,0.0002
+Pollock,Sea of Japan,marine,carnivore,64.96,4483.98,0.0226,0.0014,0.0554,0.0002
+Escolar,Mediterranean Sea,marine,carnivore,181.55,55824.5,0.4141,0.0129,0.0745,0.0002
+Swordfish,Baltic Sea,marine,carnivore,229.81,21587.4,,0.0183,,0.0005
+Orange Roughy,Baltic Sea,marine,carnivore,70.74,1154.55,0.3606,0.0113,0.1683,
+Shrimp,Great Lakes,marine,omnivore,15.11,39.07,0.0294,0.0058,0.4807,0.0006
+Crayfish,Gulf of Thailand,freshwater,omnivore,10.47,84.81,0.0217,0.0088,0.3889,0.001
+Bluefin Tuna,Arctic Ocean,marine,carnivore,204.01,247328.34,1.164,0.0232,0.1154,0.0006
+Oyster,Gulf of Mexico,marine,filter_feeder,7.27,91.27,0.0845,0.0106,0.973,0.0016
+Squid,Arctic Ocean,marine,carnivore,15.19,108.79,0.0944,0.0071,0.3081,0.0313
+Scallop,Amazon River,marine,filter_feeder,6.34,15.85,0.0728,,1.0888,
+Mussel,Bay of Biscay,marine,filter_feeder,8.8,69.47,0.0347,,1.4342,0.0033
+Marlin,Bering Sea,marine,carnivore,218.13,144505.2,,0.0126,0.0898,0.0006
+King Mackerel,Great Lakes,marine,carnivore,94.46,5346.28,0.9181,0.0289,0.0722,0.0007
+Whitefish,Gulf of Thailand,freshwater,carnivore,51.06,1887.2,0.0749,0.0068,0.0811,0.0001
+Plaice,Pacific Ocean,marine,carnivore,30.88,1613.24,0.0689,0.0045,0.1255,0.0001
+Escolar,Sea of Japan,marine,carnivore,167.83,42797.01,0.4439,0.0137,0.1407,0.0008
+Anchovy,Amazon River,marine,carnivore,9.66,39.01,0.0089,0.0093,0.3017,0.0001
+Sea Bass,Mississippi River,marine,carnivore,75.64,2443.42,,0.0282,0.0964,0.0003
+Trout,Gulf of Thailand,freshwater,carnivore,51.3,1782.68,,0.009,0.0288,0.0001
+Anchovy,North Sea,marine,carnivore,14.63,29.45,0.0112,0.0095,0.2569,0.0002
+Crayfish,Mississippi River,freshwater,omnivore,13.29,79.5,0.0293,0.0097,0.2144,0.0009
+Bass (Freshwater),Gulf of Thailand,freshwater,carnivore,48.73,2229.4,0.1419,0.0194,0.1156,
+Walleye,Pacific Ocean,freshwater,carnivore,49.66,2155.76,0.2674,0.0262,,0.0004
+Trout,Indian Ocean,freshwater,carnivore,30.12,1439.42,0.0746,0.0042,0.0139,0.0001
+Anchovy,Mediterranean Sea,marine,carnivore,13.74,37.16,0.0164,0.0045,0.2943,0.0
+Squid,Gulf of Thailand,marine,carnivore,22.43,426.44,0.0559,0.0074,0.2392,0.0371
+Whiting,North Sea,marine,carnivore,49.04,1363.67,0.0797,0.0041,,0.0001
+Bass (Freshwater),Caribbean Sea,freshwater,carnivore,25.08,3293.04,0.2647,0.0234,0.0706,0.0007
+Shark,Indian Ocean,marine,carnivore,255.88,60384.35,1.201,0.0224,0.0975,0.0005
+Swordfish,Mediterranean Sea,marine,carnivore,169.33,24526.13,0.8713,0.0245,,0.001
+Sea Bass,Gulf of Thailand,marine,carnivore,42.77,4567.11,0.2311,0.0298,0.0765,0.0009
+Snapper,Mississippi River,marine,carnivore,68.58,3119.48,0.1612,0.0208,,0.0008
+Scallop,Mediterranean Sea,marine,filter_feeder,5.65,37.92,0.0235,0.0161,0.8587,0.002
+Atlantic Salmon,Great Lakes,marine,carnivore,70.76,3721.85,0.0301,,0.1897,0.0001
+Flounder,Gulf of Mexico,marine,carnivore,54.91,1648.26,0.0949,0.0075,0.1318,0.0001
+Mahi-Mahi,Amazon River,marine,carnivore,112.03,9350.45,0.2658,,0.1669,0.0003
+Catfish,South Atlantic,freshwater,omnivore,58.88,948.21,0.01,0.0051,0.0398,0.0
+Bluefin Tuna,Baltic Sea,marine,carnivore,165.58,48817.94,0.8201,,,0.0004
+Anchovy,Bay of Biscay,marine,carnivore,9.77,45.62,0.0223,0.0092,0.306,0.0
+Opah,Sea of Japan,marine,carnivore,167.59,61161.85,0.417,0.0248,0.0685,0.0006
+Flounder,North Sea,marine,carnivore,33.78,1557.8,0.0506,0.009,0.1011,
+Clam,Mediterranean Sea,marine,filter_feeder,7.42,33.94,0.0818,0.023,0.9411,0.0036
+Octopus,Mississippi River,marine,carnivore,48.65,417.32,,0.0088,0.2715,0.0115
+Grouper,Mississippi River,marine,carnivore,41.83,7068.23,0.6218,0.017,0.0875,0.0005
+Oyster,Gulf of Thailand,marine,filter_feeder,10.19,99.82,0.0206,,1.1764,0.0018
+Mahi-Mahi,Arctic Ocean,marine,carnivore,90.01,4904.87,0.2649,0.017,0.0854,0.0003
+Catfish,South Atlantic,freshwater,omnivore,36.19,1140.24,0.0226,0.0069,0.0335,0.0
+Scallop,Great Lakes,marine,filter_feeder,11.25,59.47,0.0473,0.021,0.8877,0.0042
+Yellowfin Tuna,Bering Sea,marine,carnivore,138.86,28255.51,0.405,0.016,0.1131,0.0006
+Scallop,Gulf of Thailand,marine,filter_feeder,6.35,30.02,0.0307,0.0155,1.0924,
+Scallop,Indian Ocean,marine,filter_feeder,5.07,34.2,0.0404,0.0116,,
+Opah,Baltic Sea,marine,carnivore,134.06,78723.51,0.5982,0.0261,0.1453,
+Skipjack Tuna,Gulf of Mexico,marine,carnivore,93.29,8701.38,0.136,0.026,0.1907,0.0006
+Catfish,Pacific Ocean,freshwater,omnivore,35.02,1156.26,0.001,0.0088,0.0051,
+Haddock,Pacific Ocean,marine,carnivore,41.22,2903.85,0.0973,0.0057,0.106,0.0
+Mussel,Gulf of Mexico,marine,filter_feeder,5.75,15.25,0.0496,0.0233,1.3907,0.0014
+Shrimp,South Atlantic,marine,omnivore,17.83,30.92,0.0136,0.0054,0.3998,
+Tilefish (Gulf),Arctic Ocean,marine,carnivore,64.33,3703.26,,0.0291,0.1482,0.0009
+Albacore Tuna,North Sea,marine,carnivore,120.2,25444.69,0.1565,0.0174,,0.0004
+Sea Bass,Arctic Ocean,marine,carnivore,37.94,3408.15,0.1879,0.0213,0.1776,0.0007
+Catfish,Amazon River,freshwater,omnivore,30.62,1606.22,0.0311,0.0051,0.0432,0.0001
+Clam,Pacific Ocean,marine,filter_feeder,9.07,22.09,0.0708,0.0175,1.3277,0.0035
+Oyster,North Sea,marine,filter_feeder,12.56,79.09,0.0631,0.0277,0.9322,0.0035
+Pike,Mississippi River,freshwater,carnivore,54.15,3006.47,0.237,0.0295,,0.0007
+Flounder,Gulf of Thailand,marine,carnivore,42.02,1315.27,,0.006,0.1535,0.0001
+Perch,Gulf of Mexico,freshwater,carnivore,20.29,362.96,0.094,0.0061,0.0152,
+Flounder,Gulf of Thailand,marine,carnivore,31.87,1706.21,,0.0063,0.0897,0.0001
+Bluefish,Pacific Ocean,marine,carnivore,68.6,4233.68,0.1774,0.0118,,0.0007
+Mussel,Mediterranean Sea,marine,filter_feeder,6.58,50.44,,0.025,0.9623,0.0025
+Coho Salmon,Sea of Japan,marine,carnivore,71.05,3081.77,,,0.0886,
+Whiting,Gulf of Thailand,marine,carnivore,50.39,2244.66,0.0867,0.006,0.0759,0.0002
+Marlin,Arctic Ocean,marine,carnivore,282.23,129055.79,1.4913,0.0124,0.1857,0.0003
+Tilefish (Gulf),Amazon River,marine,carnivore,54.72,5704.01,1.1715,0.0222,0.109,0.001
+Escolar,Gulf of Thailand,marine,carnivore,163.58,57791.05,0.6112,0.0279,,0.0007
+Sole,Arctic Ocean,marine,carnivore,43.64,1883.08,0.0455,0.0099,0.1485,0.0002
+Albacore Tuna,Sea of Japan,marine,carnivore,119.24,28224.42,0.1029,,0.1454,0.0009
+Bluefish,Great Lakes,marine,carnivore,47.04,3749.43,0.1334,0.0252,0.1355,0.0003
+Bluegill,Amazon River,freshwater,omnivore,16.7,61.87,,0.0055,0.0291,0.0002
+Skipjack Tuna,Mediterranean Sea,marine,carnivore,64.07,23050.13,0.2409,0.027,0.1948,0.0007
+Opah,Caribbean Sea,marine,carnivore,156.74,14486.64,0.6013,0.0291,0.1379,0.0005
+Swordfish,Gulf of Thailand,marine,carnivore,198.98,38547.82,,0.0217,0.1215,
+Marlin,Arctic Ocean,marine,carnivore,166.08,43776.1,1.4778,0.0123,0.1359,0.0006
+Tilapia,Gulf of Mexico,freshwater,herbivore,29.29,543.01,0.006,,,0.0
+Opah,Bay of Biscay,marine,carnivore,130.64,26096.73,0.4434,0.0249,0.1405,0.0003
+Scallop,Bering Sea,marine,filter_feeder,11.03,50.14,,0.0154,0.5688,0.0038
+King Mackerel,Amazon River,marine,carnivore,50.16,13954.94,1.4418,,0.1929,0.0008
+Tilapia,Mississippi River,freshwater,herbivore,22.43,525.18,0.0411,0.0093,0.0134,0.0001
+Albacore Tuna,North Sea,marine,carnivore,114.28,28938.46,0.1849,0.011,0.0596,0.0003
+Carp,North Atlantic,freshwater,omnivore,31.6,1762.83,0.2668,0.0276,0.145,0.0005
+Tilefish (Gulf),Bay of Biscay,marine,carnivore,46.78,6824.03,1.3904,0.0214,0.1039,0.0003
+Carp,Arctic Ocean,freshwater,omnivore,68.52,5067.37,0.1303,0.0186,0.1072,0.0009
+Halibut,Arctic Ocean,marine,carnivore,125.33,36074.31,0.2443,0.0274,0.0613,0.0009
+Tilapia,Great Lakes,freshwater,herbivore,38.27,1000.0,0.0248,0.0073,0.0153,0.0001
+Swordfish,Pacific Ocean,marine,carnivore,168.35,46902.62,0.9769,0.0299,0.1475,
+Shark,Gulf of Mexico,marine,carnivore,355.52,190839.72,0.8119,0.024,0.1699,0.0006
+Perch,Sea of Japan,freshwater,carnivore,15.51,698.25,0.0794,0.004,0.04,0.0001
+Flounder,Mississippi River,marine,carnivore,35.82,819.05,0.0346,0.0094,0.1378,0.0001
+Squid,Great Lakes,marine,carnivore,37.32,257.94,0.0323,0.0058,0.2566,
+Walleye,South Atlantic,freshwater,carnivore,77.01,2457.35,0.2112,0.01,0.1036,0.0006
+Lobster (American),South Atlantic,marine,omnivore,33.69,1041.81,0.0916,0.0298,0.3154,0.0026
+Pollock,Pacific Ocean,marine,carnivore,74.91,4472.13,0.0296,0.0002,,
+Crayfish,Mississippi River,freshwater,omnivore,10.4,62.53,0.0022,0.0055,0.4407,0.0003
+Lobster (Spiny),Sea of Japan,marine,omnivore,26.94,553.39,0.0214,,0.2519,0.0024
+Scallop,Mediterranean Sea,marine,filter_feeder,8.3,59.15,0.089,0.0152,1.0492,
+Grouper,Pacific Ocean,marine,carnivore,48.26,3636.07,0.6932,0.0174,,0.001
+Marlin,Baltic Sea,marine,carnivore,285.48,39627.02,1.4977,0.0102,0.1552,0.0003
+Shark,Gulf of Thailand,marine,carnivore,283.21,42945.47,1.2143,0.0175,0.1606,0.0004
+Lobster (Spiny),North Atlantic,marine,omnivore,42.16,959.48,0.0714,,,0.0022
+Whitefish,Gulf of Mexico,freshwater,carnivore,54.97,2015.89,0.0353,0.0094,0.0794,0.0001
+Pike,North Sea,freshwater,carnivore,76.14,2883.25,0.2209,0.0156,0.0632,0.0005
+Yellowfin Tuna,Bay of Biscay,marine,carnivore,107.19,30030.09,0.4124,0.0114,0.1639,0.0004
+Skipjack Tuna,Bay of Biscay,marine,carnivore,78.71,8671.56,0.1503,,0.0896,0.0007
+Herring,North Atlantic,marine,carnivore,21.12,236.21,0.0365,0.0091,0.3789,0.0
+Bluefish,North Atlantic,marine,carnivore,64.78,5851.49,0.2321,0.0193,0.1865,0.0006
+Crayfish,North Sea,freshwater,omnivore,10.18,29.41,0.0206,0.0051,0.4694,0.0003
+Pollock,Pacific Ocean,marine,carnivore,63.53,4048.86,0.0077,0.0014,0.149,0.0002
+Opah,Baltic Sea,marine,carnivore,174.68,24057.56,0.6335,0.0276,0.1038,
+Bluefin Tuna,Bay of Biscay,marine,carnivore,231.68,68435.67,1.2951,0.0149,0.1588,
+Walleye,Mississippi River,freshwater,carnivore,67.8,1107.88,0.116,,,0.0002
+King Mackerel,North Sea,marine,carnivore,110.67,6059.36,0.7881,,0.158,0.0008
+Crab,Baltic Sea,marine,omnivore,21.48,440.42,0.0491,0.0184,0.2195,0.0028
+Clam,Sea of Japan,marine,filter_feeder,7.18,41.31,,0.0265,0.9462,0.0049
+Herring,North Atlantic,marine,carnivore,30.34,240.64,0.0248,,0.2005,0.0002
+Squid,Arctic Ocean,marine,carnivore,16.26,348.91,0.0501,0.0069,0.4861,0.0332
+Bluefish,North Sea,marine,carnivore,55.32,3893.09,0.1149,0.0259,0.062,0.0002
+Sockeye Salmon,South Atlantic,marine,carnivore,63.76,3314.85,0.033,0.0012,0.1402,0.0002
+Oyster,Mississippi River,marine,filter_feeder,13.95,47.36,0.0403,0.0151,0.5475,0.0048
+Whiting,Gulf of Thailand,marine,carnivore,47.03,2148.62,0.0207,0.0094,,0.0001
+Tilefish (Gulf),North Sea,marine,carnivore,49.55,5940.16,1.2115,0.0211,0.0949,0.0006
+Clam,Caribbean Sea,marine,filter_feeder,9.53,21.49,0.0821,0.0156,0.7782,0.0043
+Whiting,Mississippi River,marine,carnivore,41.03,2276.96,0.053,0.0055,0.1662,
+Haddock,Pacific Ocean,marine,carnivore,60.45,1729.65,0.0491,0.0035,0.1742,
+Albacore Tuna,South Atlantic,marine,carnivore,133.29,29793.08,0.1213,0.0167,0.1652,0.0009
+Squid,Indian Ocean,marine,carnivore,28.53,194.44,0.0884,0.008,0.2,0.0447
+Oyster,North Atlantic,marine,filter_feeder,12.37,43.08,,0.0159,1.4561,0.0034
+Anchovy,Amazon River,marine,carnivore,8.84,26.79,0.0379,0.0076,0.4557,0.0002
+Haddock,Baltic Sea,marine,carnivore,47.38,2887.83,0.061,0.0087,0.0575,0.0
+Bluegill,North Atlantic,freshwater,omnivore,20.38,160.15,0.0617,0.0091,0.0232,0.0001
+Whitefish,South Atlantic,freshwater,carnivore,36.96,1197.87,0.0302,0.0082,0.0992,0.0
+Carp,South Atlantic,freshwater,omnivore,43.6,4462.49,0.2174,0.0287,,0.0004
+Octopus,Indian Ocean,marine,carnivore,67.05,3890.62,0.086,0.0046,0.3811,0.0181
+Snapper,Arctic Ocean,marine,carnivore,59.37,3116.32,0.1453,0.017,0.1765,0.0006
+Skipjack Tuna,Caribbean Sea,marine,carnivore,80.88,21093.56,0.2617,0.0191,,0.0003
+Perch,Sea of Japan,freshwater,carnivore,22.4,595.67,,0.009,0.0406,0.0001
+Clam,Great Lakes,marine,filter_feeder,9.07,27.04,0.0967,0.0267,1.2707,
+Whitefish,Mediterranean Sea,freshwater,carnivore,34.7,1465.19,0.0444,0.0095,0.1921,0.0001
+Coho Salmon,Pacific Ocean,marine,carnivore,72.16,3765.48,,0.0025,0.1994,
+Bluegill,Arctic Ocean,freshwater,omnivore,23.96,97.04,0.0898,0.0032,0.0275,0.0001
+Haddock,Gulf of Thailand,marine,carnivore,57.61,2449.82,0.0669,0.008,0.1549,0.0001
+Plaice,Mediterranean Sea,marine,carnivore,33.94,1198.77,,0.0057,0.0652,0.0001
+Shark,Mississippi River,marine,carnivore,242.58,31584.62,0.7516,0.0148,0.126,0.0004
+Skipjack Tuna,Indian Ocean,marine,carnivore,81.93,13064.39,0.2768,0.0203,0.0694,0.0003
+Squid,Amazon River,marine,carnivore,32.55,402.67,0.069,,0.3057,0.0474
+Plaice,Amazon River,marine,carnivore,43.11,768.71,0.065,0.0041,0.1487,0.0
+King Mackerel,Caribbean Sea,marine,carnivore,106.11,12373.16,0.7223,0.0116,0.1398,
+Oyster,Great Lakes,marine,filter_feeder,11.97,39.2,0.0354,0.0243,0.978,
+Orange Roughy,Bay of Biscay,marine,carnivore,45.47,2323.63,,0.0186,0.1533,0.0005
+Orange Roughy,Bering Sea,marine,carnivore,43.72,4822.79,0.4865,0.0252,0.1603,0.0003
+Escolar,Bay of Biscay,marine,carnivore,153.88,29301.43,0.365,0.016,0.1403,0.0005
+Crayfish,Amazon River,freshwater,omnivore,8.22,27.53,0.0342,,0.442,
+Crab,North Atlantic,marine,omnivore,20.07,398.06,0.0655,0.0103,0.4829,0.0023
+Mussel,Bay of Biscay,marine,filter_feeder,5.56,47.22,0.0254,0.0238,1.1296,0.0048
+Skipjack Tuna,Great Lakes,marine,carnivore,77.6,6053.12,,0.0181,,
+Bigeye Tuna,Amazon River,marine,carnivore,171.35,60288.12,0.5249,0.0162,0.1562,0.0003
+Oyster,Baltic Sea,marine,filter_feeder,9.88,97.66,0.0473,0.0294,0.9953,0.0044
+King Mackerel,Sea of Japan,marine,carnivore,95.05,12597.18,0.9561,0.0271,0.0512,0.0008
+Whiting,Indian Ocean,marine,carnivore,33.31,1477.46,0.0655,0.0055,0.1376,0.0001
+Bluefin Tuna,Baltic Sea,marine,carnivore,240.67,162724.46,1.2192,0.0254,0.1294,0.0003
+Trout,Pacific Ocean,freshwater,carnivore,59.41,1876.45,0.0317,0.007,0.0128,0.0001
+Clam,Bering Sea,marine,filter_feeder,6.09,54.15,0.0607,0.0276,,0.002
+Snapper,Mississippi River,marine,carnivore,55.7,1210.95,0.2101,,0.0859,0.0007
+Sockeye Salmon,Baltic Sea,marine,carnivore,71.01,3144.19,0.0325,0.0017,,0.0001
+Plaice,Sea of Japan,marine,carnivore,31.35,1575.93,0.0817,0.0098,0.1598,0.0001
+Sea Bass,Gulf of Mexico,marine,carnivore,30.93,5614.33,0.185,0.0279,0.193,0.0003
+Whiting,North Sea,marine,carnivore,57.39,2213.53,0.094,0.0096,0.1701,
+Anchovy,Sea of Japan,marine,carnivore,11.27,28.91,0.0032,0.0031,0.2458,0.0001
+Crayfish,Indian Ocean,freshwater,omnivore,12.83,96.88,,0.0065,0.4938,
+Carp,Mediterranean Sea,freshwater,omnivore,32.09,4035.08,0.1099,0.0156,0.1186,0.0005
+Grouper,Great Lakes,marine,carnivore,41.67,5704.87,0.3929,0.011,0.0954,0.0007
+Trout,North Sea,freshwater,carnivore,55.75,517.52,0.0949,0.0043,0.0367,
+Crayfish,Indian Ocean,freshwater,omnivore,11.27,58.96,0.0277,0.0081,0.2803,0.0008
+Trout,Bay of Biscay,freshwater,carnivore,38.72,1200.92,0.094,0.0034,,0.0001
+Catfish,South Atlantic,freshwater,omnivore,29.87,1566.11,0.0383,,0.0123,0.0002
+Sea Bass,Arctic Ocean,marine,carnivore,66.85,2966.48,0.2673,0.0225,0.1139,
+Atlantic Salmon,Indian Ocean,marine,carnivore,73.33,3838.48,0.0212,0.0009,0.1894,0.0002
+Octopus,North Atlantic,marine,carnivore,71.08,1150.96,0.0771,0.0059,0.4005,0.0455
+Catfish,Great Lakes,freshwater,omnivore,40.89,2250.99,0.0108,0.0066,0.0321,0.0001
+Anchovy,Gulf of Thailand,marine,carnivore,8.17,22.14,0.0041,0.0057,0.4569,0.0001
+Bluefish,Pacific Ocean,marine,carnivore,76.62,4293.81,0.1486,0.0174,0.0869,0.0005
+Cod,Mediterranean Sea,marine,carnivore,82.53,5328.12,0.0985,0.0072,0.1332,
+Pike,Sea of Japan,freshwater,carnivore,49.26,3947.8,0.1788,0.0178,0.1216,0.0007
+Opah,Gulf of Thailand,marine,carnivore,82.85,18861.77,0.6545,0.0244,0.0574,
+Squid,Sea of Japan,marine,carnivore,30.22,396.68,0.0947,0.0043,0.4341,0.0151
+Oyster,North Sea,marine,filter_feeder,13.53,75.77,,0.0225,,
+Halibut,Baltic Sea,marine,carnivore,124.56,57492.94,0.1481,,0.1285,0.0007
+Yellowfin Tuna,Baltic Sea,marine,carnivore,126.2,25145.34,0.5951,0.0222,0.1011,0.0009
+Atlantic Salmon,North Sea,marine,carnivore,74.15,5410.71,0.0134,0.0027,0.0636,
+Bluegill,Bay of Biscay,freshwater,omnivore,28.61,87.8,0.0358,0.0055,,0.0001
+Sardine,North Sea,marine,carnivore,13.58,129.97,0.0491,0.0044,,0.0002
+Plaice,Sea of Japan,marine,carnivore,28.1,1482.24,0.05,0.007,,0.0001
+Mussel,Pacific Ocean,marine,filter_feeder,11.67,16.7,0.0346,0.0257,0.8876,0.0023
+Sardine,Mississippi River,marine,carnivore,23.05,72.81,0.036,0.0056,0.4251,0.0
+Tilapia,Caribbean Sea,freshwater,herbivore,41.45,808.09,,0.003,0.0102,
+Crayfish,Gulf of Mexico,freshwater,omnivore,13.1,65.16,0.0071,0.0077,0.4661,0.0005
+Pike,North Atlantic,freshwater,carnivore,49.13,9448.18,0.1555,0.0116,0.1564,0.0006
+Escolar,South Atlantic,marine,carnivore,86.24,31292.17,0.4975,0.0233,0.1376,0.0002
+Orange Roughy,Great Lakes,marine,carnivore,50.32,4484.52,0.3457,0.0186,0.1642,0.0004
+Lobster (American),Great Lakes,marine,omnivore,44.2,1016.54,0.0791,0.0184,,0.0033
+Lobster (American),Great Lakes,marine,omnivore,20.19,1003.73,0.0471,0.0198,0.368,0.0035
+Haddock,Mediterranean Sea,marine,carnivore,46.95,2714.52,,0.0034,0.1048,0.0
+Sardine,Indian Ocean,marine,carnivore,16.99,105.38,0.0427,0.0098,0.326,0.0001
+Mahi-Mahi,Sea of Japan,marine,carnivore,114.96,12118.53,0.1598,0.0216,0.0826,0.0006
+Mahi-Mahi,Arctic Ocean,marine,carnivore,113.96,13002.95,0.1767,0.0116,0.0719,0.0007
+Trout,Pacific Ocean,freshwater,carnivore,52.09,1144.57,,,,0.0
+Catfish,Mississippi River,freshwater,omnivore,56.75,1511.78,0.0485,0.0054,0.027,0.0
+Crayfish,Caribbean Sea,freshwater,omnivore,12.88,90.51,0.0251,0.0043,0.3056,0.0005
+Scallop,Indian Ocean,marine,filter_feeder,6.87,30.66,0.0888,0.0111,,0.0023
+Yellowfin Tuna,Arctic Ocean,marine,carnivore,196.96,53378.91,0.4676,0.0231,0.1904,0.0008
+Albacore Tuna,Sea of Japan,marine,carnivore,88.88,33184.12,0.2253,,0.1893,0.0007
+Coho Salmon,Caribbean Sea,marine,carnivore,56.81,2829.82,0.0295,0.0022,0.09,
+Sockeye Salmon,Gulf of Thailand,marine,carnivore,69.6,3156.62,0.023,0.0018,0.1236,0.0002
+Cod,Great Lakes,marine,carnivore,95.79,6302.34,0.0758,0.0083,0.0745,0.0001
+Sea Bass,Bering Sea,marine,carnivore,63.37,3103.79,0.2284,0.0226,0.0852,0.0004
+Sole,Bay of Biscay,marine,carnivore,57.71,1982.14,0.024,0.0065,0.0737,0.0001
+Lobster (Spiny),Pacific Ocean,marine,omnivore,26.67,1600.99,,0.0235,0.2423,0.0042
+Bass (Freshwater),Caribbean Sea,freshwater,carnivore,58.49,2280.42,0.1693,0.0237,0.1725,0.0002
+Perch,Arctic Ocean,freshwater,carnivore,38.84,212.1,0.0933,0.0077,0.0127,0.0
+Swordfish,Baltic Sea,marine,carnivore,139.17,47751.89,,0.02,0.111,0.0003
+Sea Bass,Great Lakes,marine,carnivore,63.84,2776.77,,0.0279,0.1318,0.0008
+Snapper,Gulf of Thailand,marine,carnivore,41.39,1679.0,0.1745,0.0299,0.1497,0.0007
+Perch,North Sea,freshwater,carnivore,35.91,695.02,,0.0087,0.0271,0.0001
