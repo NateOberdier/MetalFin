@@ -16,7 +16,7 @@ All sources are linked in "Sources.txt" file.
 
 
 ### Instructions
-To run the project, go to notebooks/MetalFin.ipynb. From here, you can open the code in Google Colab.
+To run the project, go to metalfin.ipynb. From here, you can open the code in Google Colab.
 Press Ctrl+F9 on your keyboard or press "Runtime" and then "Run all".
 All 3 code cells will be queued to execute and will run 1 at a time.
 Scroll all the way to the bottom to use the project's main purpose, which is the Interactive AI Decision Tool with Multi-Fish Comparison.
