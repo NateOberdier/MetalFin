@@ -12,7 +12,7 @@ Heavy metal contamination (Mercury, Lead, Arsenic, and Cadmium) poses a signific
 5. *Interface:* Once the model is complete, I will need a presentable interface that will allow users to interact with my model in a friendly manner. I hope that it will be used in practical and useful environments and will provide helpful information to those in need.
 
 ### Sources
-All sources are linked in "Sources.txt" file.
+All sources are linked in "data/Sources.txt" file.
 
 
 ### Instructions
