@@ -25,3 +25,5 @@ Now, press the "+" button to calculate the metal absorption for your seafood com
 Below will form a table with all values of how the heavy metals are absorbed in the human body and determine if the seafood is either SAFE, RISKY, or DANGEROUS to consume.
 You can add as many fish at once to compare how many heavy metals are in specific combinations.
 The "Clear" button clears all outputs and you may continue to compare more seafood combinations.
+
+If unable to view in Colab, access the project through this link: https://colab.research.google.com/drive/1-IWTjls_PLmoYowH0R3kzt1M-oOLKPDc?usp=sharing
